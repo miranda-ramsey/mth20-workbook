@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <!-- we first include a file which contains the docinfo element: -->
+  <xi:include href="./docinfo.ptx" />
+
+  <article xml:id="mth-20-workbook">
+    <title>Activity Workbook for MTH 20</title>
+    <subtitle>Fundamentals of Mathematics</subtitle>
+
+    <!-- Include frontmatter -->
+    <xi:include href="./frontmatter.ptx" />
+
+    <!-- Include sections -->
+	<section xml:id="introduction">
+		<title>Introduction</title>
+		<xi:include href="./intro/ws-introduction.ptx" />
+	</section>
+
+	<section xml:id="integers">
+		<title>Integers</title>
+		<xi:include href="./integers/ws-whole-numbers.ptx" />
+		<!--
+		<xi:include href="./integers/ws-integers.ptx" />
+		<xi:include href="./integers/ws-prime-numbers.ptx" />
+		<xi:include href="./integers/ws-factors.ptx" />
+		-->
+	</section>
+
+	<section xml:id="fractions">
+		<title>Fractions</title>
+		<!--
+		<xi:include href="./fractions/ws-fractions.ptx" />
+		<xi:include href="./fractions/ws-fraction-multiplication.ptx" />
+		<xi:include href="./fractions/ws-fraction-simplification.ptx" />
+		<xi:include href="./fractions/ws-fraction-addition.ptx" />
+		-->
+	</section>
+
+	<section xml:id="midterm-review">
+		<title>Midterm Review</title>
+		<!--
+		<xi:include href="./midterm-review/ws-midterm-review.ptx" />
+		<xi:include href="./midterm-review/ws-midterm-assessment.ptx" />
+		-->
+	</section>
+
+	<section xml:id="rational-numbers">
+		<title>Rational Numbers</title>
+		<!--
+		<xi:include href="./rational-numbers/ws-decimals.ptx" />
+		<xi:include href="./rational-numbers/ws-decimal-addition.ptx" />
+		<xi:include href="./rational-numbers/ws-decimal-multiplication.ptx" />
+		<xi:include href="./rational-numbers/ws-decimal-division.ptx" />
+		<xi:include href="./rational-numbers/ws-ratios-proportions.ptx" />
+		<xi:include href="./rational-numbers/ws-rates-and-unit-costs.ptx" />
+		<xi:include href="./rational-numbers/ws-percentages.ptx" />
+		<xi:include href="./rational-numbers/ws-probability.ptx" />
+		-->
+	</section>
+
+	<section xml:id="final-review">
+		<title>Final Review</title>
+		<!--
+		<xi:include href="./ws-final-review.ptx" />
+		<xi:include href="./ws-final-assessment.ptx" />
+		-->
+	</section>
+
+    <!-- Include backmatter -->
+    <xi:include href="./backmatter.ptx" />
+
+  </article>
+</pretext>

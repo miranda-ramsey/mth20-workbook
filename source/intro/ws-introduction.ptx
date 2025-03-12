@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subsection xml:id="ws-introduction" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Worksheet: Introduction</title>
+
+  <p>
+    This section is just a wrapper for the actual worksheet.
+  </p>
+
+  <worksheet xml:id="prep-class-introduction">
+    <title>Preparation</title>
+    <page>
+      <exercisegroup cols="2">
+        <introduction>
+          <p>
+			  Answer the following questions about the syllabus.
+          </p>
+        </introduction>
+        <exercise workspace="0.5in">
+          <statement>
+            <p>
+				Write down the room number and meeting time for our class:
+            </p>
+          </statement>
+        </exercise>
+        <exercise workspace="0.5in">
+          <statement>
+            <p>
+				Write down the instructor's email address:
+            </p>
+          </statement>        
+        </exercise>
+      </exercisegroup>
+
+      <exercisegroup name="Practice" cols="2">
+        <introduction>
+          <p>
+            What do the following limits evaluate to?
+          </p>
+        </introduction>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to 0} \dfrac{1}{x}</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to \infty} \dfrac{1}{x}</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to 0^+} \ln(x)</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to \infty} \ln(x)</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to -\infty} \ln(x)</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to -\infty} e^x</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to \infty} e^x</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to 0} \dfrac{1}{x^2}</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to \infty} \dfrac{1}{x^2}</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to \infty} \sqrt{x}</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to 0^+} \sqrt{x}</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to 0} \sqrt{x}</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to \pi/2^-} \tan(x)</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to -\pi/2^+} \tan(x)</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to \infty} \arctan(x)</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to -\infty} \arctan(x)</m>
+            </p>
+          </statement>
+        </exercise>
+      </exercisegroup>
+    </page>
+
+    <page>
+      <exercisegroup cols="2" workspace="2.5in">
+        <introduction>
+          <p>
+            Evaluate the following limits involving composite functions.
+          </p>
+        </introduction>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to \infty} \sin(\arctan(x))</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to 0^+} e^{1/x}</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to 0} \ln(\sin(x))</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to \infty} \dfrac{1}{\ln(x)}</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to 0^+} \dfrac{1}{\ln(x)}</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to -\infty} e^{x^2}</m>
+            </p>
+          </statement>
+        </exercise>
+      </exercisegroup>
+    </page>
+
+    <page>
+      <exercisegroup cols="2" workspace="2.5in">
+        <introduction>
+          <p>
+            Evaluate the following limits involving composite functions.
+          </p>
+        </introduction>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to 0^-} \ln(x^2)</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to -\infty} \sqrt{e^x}</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to \infty} \dfrac{1}{\sin(x)}</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to 0^-} \dfrac{1}{\sin(x)}</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to 2} \dfrac{1}{(x-2)^2}</m>
+            </p>
+          </statement>
+        </exercise>
+        <exercise>
+          <statement>
+            <p>
+              <m>\lim\limits_{x\to 2} \dfrac{1}{x-2}</m>
+            </p>
+          </statement>
+        </exercise>
+      </exercisegroup>
+    </page>
+  </worksheet>
+
+</subsection>

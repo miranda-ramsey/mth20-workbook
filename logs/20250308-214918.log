@@ -1,0 +1,9 @@
+WARNING : Assertion error in getting target.
+CRITICAL: There is not a target named "latex" for this project.ptx manifest.
+CRITICAL: Exiting without completing build.
+INFO    : 
+----------------------------------------------------
+INFO    : While running pretext, the following errors occurred:
+
+INFO    : (see log messages above or in the 'logs' folder for more information)
+INFO    : ----------------------------------------------------
