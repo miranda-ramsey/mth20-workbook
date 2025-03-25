@@ -1,25 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <subsection xml:id="ws-whole-numbers" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Worksheet: Whole Numbers</title>
-  <introduction>
-	  <p>
-		  In this section...
-	  </p>
-  </introduction>
-  <paragraphs>
-	  <title>Textbook Reference</title>
-  </paragraphs>
-
-  <exercises>
-	  <title>Preparation Exercises</title>
-	  <exercisegroup>
-		  <title>Preparation 1</title>
-		  <p>
-			  Many of us...
-		  </p>
-	  </exercisegroup>
-  </exercises>
-
-
+	<title>Whole Numbers</title>
+	<introduction>
+		<p>
+			In this section...
+		</p>
+	</introduction>
+	<paragraphs>
+		<title>Textbook Reference</title>
+	</paragraphs>
+	<worksheet xml:id="worksheet-arithmetic-practice">
+		<title>Worksheet: Arithmetic Practice</title>
+		<page>
+			<exercisegroup cols="2">
+				<title>Practice with Units.</title>
+				<introduction>
+					<p>
+						Perform the indicated operation and write your answer with the proper units.
+					</p>
+				</introduction>
+				<exercise workspace="0.4in">
+					<p><m>$301 + $452</m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m>835 \text{ miles } + 406 \text{ miles }</m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m>16075 \text{ yen } + 5986 \text{ yen }</m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m>768 \text{ cases } - 513 \text{ cases }</m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m>5280 \text{ feet } - 355 \text{ feet }</m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m>$10,001 - $979</m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m>8000 \text{ Chilean pesos } \times 10</m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m></m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m></m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m></m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m></m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m></m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m></m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m></m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m></m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m></m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m></m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m></m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m></m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m></m></p>
+				</exercise>
+				<exercise workspace="0.4in">
+					<p><m></m></p>
+				</exercise>
+			</exercisegroup>
+		</page>
+		<page>
+			<exercisegroup cols="2">
+				<title>Preparation</title>
+				<introduction>
+					<p>
+						Answer the following questions about the syllabus.
+					</p>
+				</introduction>
+				<exercise workspace="1in">
+					<statement>
+						<p>
+							Write down the room number and meeting time for our class:
+						</p>
+					</statement>
+				</exercise>
+				<exercise workspace="1in">
+					<statement>
+						<p>
+							Write down the instructor's email address:
+						</p>
+					</statement>
+				</exercise>
+				<exercise workspace="1in">
+					<statement>
+						<p>
+							What are three ways you can obtain help in this class?
+						</p>
+					</statement>
+				</exercise>
+			</exercisegroup>
+		</page>
+	</worksheet>
 </subsection>
