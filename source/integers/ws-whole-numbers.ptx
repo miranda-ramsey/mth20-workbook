@@ -9,178 +9,87 @@
 	</introduction>
 	<worksheet xml:id="worksheet-arithmetic-practice">
 		<title>Worksheet: Arithmetic Practice</title>
+		<objectives>
+			<ul>
+				<li>Practice arithmetic in a handful of different forms</li>
+				<li>Communicate your process and conclusion clearly and with appropriate units</li>
+				<li>Identify confusing symbols or operations so you know what to review</li>
+			</ul>
+		</objectives>
 		<page>
 			<exercisegroup cols="2">
-				<title>Practice with Units.</title>
+				<title>Practice with Units</title>
 				<introduction>
 					<p>
 						Perform the indicated operation and write your answer with the proper units.
 					</p>
 				</introduction>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="0.5in">
 					<p><m>\$301 + \$452</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="0.5in">
 					<p><m>835 \text{ miles } + 406 \text{ miles }</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="0.5in">
 					<p><m>16075 \text{ yen } + 5986 \text{ yen }</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="0.5in">
 					<p><m>768 \text{ cases } - 513 \text{ cases }</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="0.5in">
 					<p><m>5280 \text{ feet } - 355 \text{ feet }</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="0.5in">
 					<p><m>\$10,001 - \$979</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="0.5in">
 					<p><m>8000 \text{ Chilean pesos } \times 10</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="0.5in">
 					<p><m>862 \text{ euros } \cdot 15</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="0.5in">
 					<p><m>(7{,}456 \text{ km})(52)</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="0.5in">
 					<p><m>1500 \text{ inches } \div 3</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="0.5in">
 					<p><m>496 \text{ ounces} \div 4</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="0.5in">
 					<p><m>1914 \text{ yuan} \div 6</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="0.5in">
 					<p><m>\$152 + \$399 + \$1{,}032</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="0.5in">
 					<p><m>862 \text{ meters } \cdot 36 \cdot 2</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="0.5in">
 					<p><m>2935 \text{ mm } \div 5</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="0.5in">
 					<p><m>1{,}000 \text{ liters } - 628 \text{ liters}</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<!--
+				<exercise workspace="1in">
 					<p><m>(4{,}362)(30 \text{ days})</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="1in">
 					<p><m>156{,}983 \text{ rupees } - 93{,}299 \text{ rupees}</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
-					<p><m>16{,}450 \text{ Nigerian naira } \times 18</m></p>
-					</statement>
-				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="1in">
 					<p><m>8320 \text{ pounds } \div 16</m></p>
-					</statement>
 				</exercise>
-				<exercise workspace="0.4in">
-					<statement>
+				<exercise workspace="1in">
 					<p><m>18 \text{ mg } + 132 \text{ mg } + 1549 \text{ mg}</m></p>
-					</statement>
 				</exercise>
+				-->
 			</exercisegroup>
 		</page>
 		<page>
 			<exercisegroup cols="2">
-				<title>Problem Solving with Whole Numbers</title>
-				<introduction>
-						<p>
-							For each problem, decide which mathematical operation(s)
-							is appropriate to use and then find the answer. Show your 
-							thinking with words, symbols, and/or pictures. Write your 
-							answer in a complete sentence.
-						</p>
-				</introduction>
-				<exercise workspace="1in">
-					<statement>
-						<p>
-							<line>A movie theater makes a <m>\$4</m> profit on each ticket
-							sold. How many tickets must be sold to make a profit of 
-							<m>\$2{,}500</m>?</line>
-							<line>Mathematical operation(s):</line>
-							<line>Solution:</line>
-						</p>
-					</statement>
-				</exercise>
-				<exercise workspace="1in">
-					<statement>
-						<p>
-							<line>A savings account contained <m>\$1,370</m>. After a 
-							withdrawal of <m>\$197</m> and a deposit of <m>\$340</m>,
-							how much is now in the account?</line>
-							<line>Mathematical operation(s):</line>
-							<line>Solution:</line>
-						</p>
-					</statement>
-				</exercise>
-				<exercise workspace="1in">
-					<statement>
-						<p>
-							<line>How many tablets should a pharmacist give a person 
-							who needs to take <m>2</m> tablets <m>3</m> times a day
-							for <m>14</m> days?</line>
-							<line>Mathematical operation(s):</line>
-							<line>Solution:</line>
-						</p>
-					</statement>
-				</exercise>
-				<exercise workspace="1in">
-					<statement>
-						<p>
-							<line>The cost of a student parking pass at PCC is <m>\$50</m>
-									per term if you buy it online. If a daily pass is 
-							<m>\$5</m>, after how many days does a term pass pay off?</line>
-							<line>Mathematical operation(s):</line>
-							<line>Solution:</line>
-						</p>
-					</statement>
-				</exercise>
-			</exercisegroup>
-			<exercisegroup>
 				<title>Word Association</title>
 				<introduction>
 					<p>
@@ -188,30 +97,139 @@
 					</p>
 				</introduction>
 				<exercise workspace="0.4in">
-					<p>total</p>
+						<p>total</p>
 				</exercise>
 				<exercise workspace="0.4in">
-					<p>shared equally</p>
+						<p>shared equally</p>
 				</exercise>
 				<exercise workspace="0.4in">
-					<p>double</p>
+						<p>double</p>
 				</exercise>
 				<exercise workspace="0.4in">
-					<p>loss</p>
+						<p>loss</p>
 				</exercise>
 				<exercise workspace="0.4in">
-					<p>goes into</p>
+						<p>goes into</p>
 				</exercise>
 				<exercise workspace="0.4in">
-					<p>triple</p>
+						<p>triple</p>
 				</exercise>
 				<exercise workspace="0.4in">
-					<p>reduced by</p>
+						<p>reduced by</p>
 				</exercise>
 				<exercise workspace="0.4in">
-					<p>altogether</p>
+						<p>altogether</p>
 				</exercise>
 			</exercisegroup>
+			<exercisegroup cols="2">
+				<title>Problem Solving with Whole Numbers</title>
+				<introduction>
+					<p>
+						For each problem, decide which mathematical operation(s)
+						is appropriate to use and then find the answer. Show your 
+						thinking with words, symbols, and/or pictures. Write your 
+						answer in a complete sentence.
+					</p>
+				</introduction>
+				<exercise workspace="2in">
+						<p>
+							A movie theater makes a <m>\$4</m> profit on each ticket
+							sold. How many tickets must be sold to make a profit of 
+							<m>\$2{,}500</m>?
+						</p>
+						<p>Mathematical operation(s):</p>
+						<p>Solution:</p>
+				</exercise>
+				<exercise workspace="2in">
+						<p>
+							A savings account contained <m>\$1,370</m>. After a 
+							withdrawal of <m>\$197</m> and a deposit of <m>\$340</m>, how much is now in the account?
+						</p>
+						<p>Mathematical operation(s):</p>
+						<p>Solution:</p>
+				</exercise>
+				<exercise workspace="1in">
+						<p>
+							How many tablets should a pharmacist give a person 
+							who needs to take <m>2</m> tablets <m>3</m> times a day
+							for <m>14</m> days?
+						</p>
+						<p>Mathematical operation(s):</p>
+						<p>Solution:</p>
+				</exercise>
+				<exercise workspace="1in">
+						<p>
+							The cost of a student parking pass at PCC is <m>\$50</m> per 
+							term if you buy it online. If a daily pass is <m>\$5</m>, after
+							how many days does a term pass pay off?
+						</p>
+						<p>Mathematical operation(s):</p>
+						<p>Solution:</p>
+				</exercise>
+			</exercisegroup>
+		</page>
+		<page>
+			<exercisegroup cols="2">
+				<title>Order of Operations with Whole Numbers</title>
+				<introduction>
+					<p>
+						Use the order of operations to complete each problem. Perform one operation at 
+						a time and write the answer in its place. Show each step vertically with an 
+						equal sign on each line. There are two examples to show you the proper form:
+					</p>
+					<p>
+						Example A:
+						<md>
+							<mrow>2 \cdot 3 + 4(7+2) \amp = 2 \cdot 3 + 4(9)</mrow>
+							<mrow>\amp = 6 + 36</mrow>
+							<mrow>\amp = 42</mrow>
+						</md>
+					</p>
+					<p>
+						Example B:
+						<md>
+							<mrow>\left[10 \div (18 - 16) + 20\right] \div 5 \amp = \left[10 \div 2 + 20\right] \div 5</mrow>
+							<mrow>\amp = \left[5 + 20\right] \div 5</mrow>
+							<mrow>\amp = 25 \div 5</mrow>
+							<mrow>\amp = 5</mrow>
+						</md>
+					</p>
+				</introduction>
+				<exercise workspace="1.2in">
+					<statement>
+						<p>
+							<m>16 \div 4 + 7(4)(2)</m>
+						</p>
+					</statement>
+				</exercise>
+				<exercise workspace="1.2in">
+					<statement>
+						<p>
+							<m>40 \div 2 \cdot 5 + 1</m>
+						</p>
+					</statement>
+				</exercise>
+				<exercise workspace="1.2in">
+					<statement>
+						<p>
+							<m>100 - 4(18 - 2 + 8)</m>
+						</p>
+					</statement>
+				</exercise>
+				<exercise workspace="1.2in">
+					<statement>
+						<p>
+							<m>10 + 2 \left[36 - (18 - 6)\right]</m>
+						</p>
+					</statement>
+				</exercise>
+			</exercisegroup>
+			<exercise workspace = ".5in">
+				<title>Self Reflection</title>
+				<p>On a scale of 1-5, how confident are you with the material in this worksheet?</p>
+				<p>Were any of the exercises confusing or frustrating? If so, identify them here and
+					write down your plan to master those exercises.</p>
+			</exercise>
 		</page>
 	</worksheet>
 </subsection>

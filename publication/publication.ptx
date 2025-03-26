@@ -64,7 +64,7 @@
         <asymptote links="yes"/>
         <!-- Several embedded calculators are available            -->
         <!-- Use "none" to turn this off (or remove the element)   -->
-        <calculator model="geogebra-classic"/>
+		<!-- <calculator model="geogebra-classic"/> -->
         <!-- A location for a hosted HTML version, as certain      -->
         <!-- aspects of the LaTeX/PDF version will link to         -->
         <!-- corresponding aspects of the HTML version              -->
