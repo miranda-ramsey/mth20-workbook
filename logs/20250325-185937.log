@@ -1,0 +1,39 @@
+WARNING : Using CLI version 2.15.1 but project's `requirements.txt`
+WARNING : is configured to use 2.14.0. Consider either installing
+WARNING : CLI version 2.14.0 or running `pretext update`
+WARNING : to update `requirements.txt` and other managed files to match 2.15.1.
+WARNING : Could not find a target 'pdf', but found a target 'print' with format='pdf'; using this target.
+INFO    : Building target print
+INFO    : Generating any needed assets.
+INFO    : Finished generating assets.
+
+INFO    : Preparing to build into /home/miranda/Documents/MTH20/mth20-workbook/output/print.
+INFO    : discovering source file's directory name: /home/miranda/Documents/MTH20/mth20-workbook/source
+INFO    : verifying and expanding input directory: /home/miranda/Documents/MTH20/mth20-workbook/source/gen
+INFO    : input directory expanded to absolute path: /home/miranda/Documents/MTH20/mth20-workbook/source/gen
+INFO    : verifying and expanding input directory: /home/miranda/Documents/MTH20/mth20-workbook/source/media
+INFO    : input directory expanded to absolute path: /home/miranda/Documents/MTH20/mth20-workbook/source/media
+INFO    : XSL conversion of /home/miranda/Documents/MTH20/mth20-workbook/source/main.ptx by /home/miranda/.ptx/2.15.1/core/xsl/utilities/report-publisher-variables.xsl
+INFO    : messages from the log for XSL processing:
+WARNING : * PTX:WARNING:   the requested HTML index page cannot be constructed since "workbook-article" is not an @xml:id anywhere in the document.  Defaults will be used instead
+INFO    : successful application of /home/miranda/.ptx/2.15.1/core/xsl/utilities/report-publisher-variables.xsl
+INFO    : converting /home/miranda/Documents/MTH20/mth20-workbook/source/main.ptx to LaTeX as /tmp/ptx-u84ypete/main.tex
+INFO    : XSL conversion of /home/miranda/Documents/MTH20/mth20-workbook/source/main.ptx by /home/miranda/.ptx/2.15.1/core/xsl/pretext-latex.xsl
+INFO    : messages from the log for XSL processing:
+INFO    : * PTX:INFO:   checking ONLY the last TWO YEARS of element deprecations.
+Rerun with the string parameter "author.deprecations.all" set to "yes" to check your source against all deprecations.
+WARNING : * PTX:WARNING:   the requested HTML index page cannot be constructed since "workbook-article" is not an @xml:id anywhere in the document.  Defaults will be used instead
+WARNING : * PTX:DEPRECATE: (2024-07-12) the html/css/@style publication file entry has been deprecated for replacement by @theme. See the Guide for theme options.
+INFO    : * --------------
+WARNING : * PTX:DEPRECATE: (2024-07-12) the html/css/@toc, @navbar, @shell, @knowls, and @banner publication entries have been deprecated. Use @theme to control html appearance. See the Guide for theme options.
+INFO    : * --------------
+INFO    : successful application of /home/miranda/.ptx/2.15.1/core/xsl/pretext-latex.xsl
+CRITICAL: [Errno 2] No such file or directory: 'main.pdf'
+INFO    : ------------------------
+CRITICAL: Failed to build.  Exiting...
+INFO    : 
+----------------------------------------------------
+INFO    : While running pretext, the following errors occurred:
+
+INFO    : (see log messages above or in the 'logs' folder for more information)
+INFO    : ----------------------------------------------------

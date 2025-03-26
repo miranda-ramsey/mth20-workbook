@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subsection xml:id="ws-integers" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Whole Numbers</title>
+	<introduction>
+		<p>
+			In this section...
+		</p>
+	</introduction>
+	<worksheet xml:id="worksheet-signed-practice">
+		<title>Worksheet: Arithmetic Practice</title>
+		<page>
+			<exercisegroup cols="2">
+				<title>Practice with Units.</title>
+				<introduction>
+					<p>
+						Perform the indicated operation and write your answer with the proper units.
+					</p>
+				</introduction>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>$301 + $452</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>835 \text{ miles } + 406 \text{ miles }</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>16075 \text{ yen } + 5986 \text{ yen }</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>768 \text{ cases } - 513 \text{ cases }</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>5280 \text{ feet } - 355 \text{ feet }</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>$10,001 - $979</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>8000 \text{ Chilean pesos } \times 10</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>862 \text{ euros } \cdot 15</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>(7{,}456 \text{ km})(52)</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>1500 \text{ inches } \div 3</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>4\enclose{longdiv}{496 \text{ ounces}}</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>6\enclose{longdiv}{1914 \text{ yuan}}</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>$152 + $399 + $1{,}032</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>862 \text{ meters } \cdot 36 \cdot 2</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>2935 \text{ mm } \div 5</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>1{,}000 \text{ liters } - 628 \text{ liters}</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>(4{,}362)(30 \text{ days})</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>156{,}983 \text{ rupees } - 93{,}299 \text{ rupees}</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>16{,}450 \text{ Nigerian naira } \times 18</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>8320 \text{ pounds } \div 16</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.4in">
+					<statement>
+					<p><m>18 \text{ mg } + 132 \text{ mg } + 1549 \text{ mg}</m></p>
+					</statement>
+				</exercise>
+			</exercisegroup>
+		</page>
+		<page>
+			<exercisegroup cols="2">
+				<title>Problem Solving with Whole Numbers</title>
+				<introduction>
+						<p>
+							For each problem, decide which mathematical operation(s)
+							is appropriate to use and then find the answer. Show your 
+							thinking with words, symbols, and/or pictures. Write your 
+							answer in a complete sentence.
+						</p>
+				</introduction>
+				<exercise workspace="1in">
+					<statement>
+						<p>
+							<line>A movie theater makes a <m>$4</m> profit on each ticket
+							sold. How many tickets must be sold to make a profit of 
+							<m>$2{,}500</m>?</line>
+							<line>Mathematical operation(s):</line>
+							<line>Solution:</line>
+						</p>
+					</statement>
+				</exercise>
+				<exercise workspace="1in">
+					<statement>
+						<p>
+							<line>A savings account contained <m>$1,370</m>. After a 
+							withdrawal of <m>$197</m> and a deposit of <m>$340</m>,
+							how much is now in the account?</line>
+							<line>Mathematical operation(s):</line>
+							<line>Solution:</line>
+						</p>
+					</statement>
+				</exercise>
+				<exercise workspace="1in">
+					<statement>
+						<p>
+							<line>How many tablets should a pharmacist give a person 
+							who needs to take <m>2</m> tablets <m>3</m> times a day
+							for <m>14</m> days?</line>
+							<line>Mathematical operation(s):</line>
+							<line>Solution:</line>
+						</p>
+					</statement>
+				</exercise>
+				<exercise workspace="1in">
+					<statement>
+						<p>
+							<line>The cost of a student parking pass at PCC is <m>$50</m>
+									per term if you buy it online. If a daily pass is 
+							<m>$5</m>, after how many days does a term pass pay off?</line>
+							<line>Mathematical operation(s):</line>
+							<line>Solution:</line>
+						</p>
+					</statement>
+				</exercise>
+			</exercisegroup>
+		</page>
+	</worksheet>
+</subsection>

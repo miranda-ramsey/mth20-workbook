@@ -1,0 +1,20 @@
+WARNING : Using CLI version 2.15.1 but project's `requirements.txt`
+WARNING : is configured to use 2.14.0. Consider either installing
+WARNING : CLI version 2.14.0 or running `pretext update`
+WARNING : to update `requirements.txt` and other managed files to match 2.15.1.
+INFO    : Building target web
+ERROR   : XInclude Error caused build to fail:
+ERROR   : /home/miranda/Documents/MTH20/mth20-workbook/source/integers/ws-whole-numbers.ptx:215:20:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: exercise line 214 and exercisegroup
+/home/miranda/Documents/MTH20/mth20-workbook/source/integers/ws-whole-numbers.ptx:216:10:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: exercisegroup line 183 and page
+/home/miranda/Documents/MTH20/mth20-workbook/source/integers/ws-whole-numbers.ptx:217:14:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: page line 127 and worksheet
+/home/miranda/Documents/MTH20/mth20-workbook/source/integers/ws-whole-numbers.ptx:218:14:FATAL:PARSER:ERR_TAG_NAME_MISMATCH: Opening and ending tag mismatch: worksheet line 10 and subsection
+/home/miranda/Documents/MTH20/mth20-workbook/source/main.ptx:22:0:ERROR:XINCLUDE:XINCLUDE_NO_FALLBACK: could not load /home/miranda/Documents/MTH20/mth20-workbook/source/integers/ws-whole-numbers.ptx, and no fallback was found
+CRITICAL: XML syntax for source file is invalid
+INFO    : ------------------------
+CRITICAL: Failed to build.  Exiting...
+INFO    : 
+----------------------------------------------------
+INFO    : While running pretext, the following errors occurred:
+
+INFO    : (see log messages above or in the 'logs' folder for more information)
+INFO    : ----------------------------------------------------
