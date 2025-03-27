@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subsection xml:id="group-zero-sum-game" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Group Activity: Zero Sum</title>
+	<introduction>
+		<p>
+			You will need a deck of playing cards with the jokers and any marketing cards removed and set aside.
+			<ul>
+				<li>Aces are worth 1 point, and face cards (Jacks, Queens, and Kings) are worth 10 points.</li>
+				<li>Black suits (Spades, Clubs) are worth positive points. Red suits (Hearts, Diamonds) are worth negative points.</li>
+			</ul>
+		</p>
+	</introduction>
+	<paragraphs>
+		<title>How To Play</title>
+		<p>
+			<ol>
+				<li>Choose one player to be the dealer. The dealer shuffles the deck and deals 3 cards to each player.</li>
+				<li>Play starts with the player to the dealer's left. The table score starts at 0.</li>
+				<li>On your turn, choose a card from your hand and play it onto the discard pile. Add its point value to the table score, and say the new table score out loud.</li>
+				<li>If the table score is 0, you win the pile! Collect the discard pile and set it aside, then play another card from your hand to start a new discard pile.</li>
+				<li>Draw cards to bring your hand back up to 3 cards, or until the deck is empty.</li>
+				<li>Play continues to the left (clockwise) until all cards have been played. If a player has no cards in hand on their turn, their turn is skipped.</li>
+				<li>Count up how many cards you've won. Whoever won the most cards wins the round!</li>
+			</ol>
+		</p>
+	</paragraphs>
+</subsection>

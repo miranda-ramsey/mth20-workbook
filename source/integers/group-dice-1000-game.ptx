@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subsection xml:id="group-dice-sum-game" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Group Activity: Race to 1000</title>
+	<introduction>
+		<p>
+			You will need:
+			<ul>
+				<li>Two 12-sided dice</li>
+				<li>Pencil and paper</li>
+			</ul>
+		</p>
+	</introduction>
+	<paragraphs>
+		<title>How To Play</title>
+		<p>
+			<ol>
+				<li>Determine who will play first by having each player roll two dice. The player with the highest product goes first. Re-roll to break ties.</li>
+				<li>Each player starts with 0 points.</li>
+				<li>On your turn, roll the two dice and multiply the two results together. Add the product to your points.</li>
+				<li>If you roll doubles, announce that you rolled a "Perfect Square," record your points, and take another turn.</li>
+				<li>Pass the dice to your left so that play continues clockwise.</li>
+				<li>The first player to reach a total of 1000 points or greater wins!</li>
+			</ol>
+		</p>
+	</paragraphs>
+</subsection>

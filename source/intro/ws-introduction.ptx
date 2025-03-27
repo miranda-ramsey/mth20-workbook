@@ -2,74 +2,55 @@
 
 <subsection xml:id="ws-introduction" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Introduction</title>
-	<introduction>
-		<p>
-			This section is just a wrapper for the actual worksheet.
-		</p>
-	</introduction>
 	<worksheet xml:id="worksheet-introduction">
-		<title>Worksheet: Introduction</title>
+		<title>Worksheet: Class Information</title>
 		<page>
 			<exercisegroup cols="2">
-				<title>Preparation</title>
+				<title>Syllabus</title>
 				<introduction>
 					<p>
 						Answer the following questions about the syllabus.
 					</p>
 				</introduction>
-				<exercise workspace="1in">
-					<statement>
-						<p>
-							Write down the room number and meeting time for our class:
-						</p>
-					</statement>
-				</exercise>
-				<exercise workspace="1in">
-					<statement>
-						<p>
-							Write down the instructor's email address:
-						</p>
-					</statement>
-				</exercise>
-				<exercise workspace="1in">
-					<statement>
-						<p>
-							What are three ways you can obtain help in this class?
-						</p>
-					</statement>
-				</exercise>
-			</exercisegroup>
-		</page>
-		<page>
-			<exercisegroup cols="2">
-				<title>Preparation</title>
-				<introduction>
+				<exercise workspace="0.5in">
 					<p>
-						Answer the following questions about the syllabus.
+						Write down the room number and meeting time for our class:
 					</p>
-				</introduction>
-				<exercise workspace="1in">
-					<statement>
-						<p>
-							Write down the room number and meeting time for our class:
-						</p>
-					</statement>
+				</exercise>
+				<exercise workspace="0.5in">
+					<p>
+						Write down the instructor's email address:
+					</p>
+				</exercise>
+				<exercise workspace="0.5in">
+					<p>
+						On what day and time will the Midterm take place?	
+					</p>
+				</exercise>
+				<exercise workspace="0.5in">
+					<p>
+						On what day and time will the Final take place?	
+					</p>
 				</exercise>
 				<exercise workspace="1in">
-					<statement>
-						<p>
-							Write down the instructor's email address:
-						</p>
-					</statement>
+					<p>
+						List three ways you can obtain help in this class.
+					</p>
 				</exercise>
 				<exercise workspace="1in">
-					<statement>
-						<p>
-							What are three ways you can obtain help in this class?
-						</p>
-					</statement>
+					<p>
+						Write down a day and time that you plan to work on your first homework assignment this week.
+					</p>
 				</exercise>
 			</exercisegroup>
+			<exercise workspace="0.5in">
+				<title>ALEKS</title>
+				<p>Write down the ALEKS code here.</p>
+			</exercise>
+			<exercise workspace="1in">
+				<title>Group Introductions</title>
+				<p>Write down the names of the people in your group. Make sure to check your spelling!</p>
+			</exercise>
 		</page>
 	</worksheet>
 </subsection>
