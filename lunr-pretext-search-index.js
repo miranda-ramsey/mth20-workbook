@@ -583,7 +583,7 @@ var ptx_lunr_docs = [
   "type": "Subsection",
   "number": "",
   "title": "Homework: Problem Set 1",
-  "body": " Homework: Problem Set 1   In addition to the homework problems on ALEKS, complete the following problems by hand:    Book Problems    Page 89: 22-28, 37-42  Page 90: 53-61  Page 91: 71, 72, 77, 86, 88, 91, 93, 98  Page 494: 1, 2, 9-17  Page 594: 1-6, 37-40     "
+  "body": " Homework: Problem Set 1   In addition to the homework problems on ALEKS, complete the following problems by hand:    Book Problems    pp 89-91: 22-28, 37-42, 53-61, 71, 72, 77, 86, 88, 91, 93, 98  pp 494-495: 1, 2, 15-17  pp 594-595: 1-6, 37-40     "
 },
 {
   "id": "fractions",
