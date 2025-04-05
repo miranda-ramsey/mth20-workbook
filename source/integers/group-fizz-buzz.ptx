@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subsection xml:id="group-fizz-buzz" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Group Activity: Fizz Buzz</title>
+	<paragraphs>
+		<title>How To Play</title>
+		<p>
+			<ol>
+				<li>This is a cooperative game. The goal is for the whole team to count to 100 without making any mistakes.</li>
+				<li>Starting at 1, each player says the next number in turn.</li>
+				<li>The catch is, you cannot say numbers that are divisible by 3 or 5.</li>
+				<li>If a number is divisible by 3, you must say "Fizz" instead.</li>
+				<li>If a number is divisible by 5, you must say "Buzz" instead.</li>
+				<li>If a number is divisible by both 3 and 5, you must say "FizzBuzz" instead.</li>
+				<li>If a player makes a mistake, the team starts over at 1!</li>
+			</ol>
+				You can play again with a different pair of numbers instead of 3 and 5. Smaller numbers work best!</p>
+			<p>
+			For a slightly harder version, you can add a third number that is not allowed, and say "Toes" instead. This means some numbers have to be "FizzToes", some "BuzzToes", and some "FizzBuzzToes!"
+		</p>
+	</paragraphs>
+</subsection>

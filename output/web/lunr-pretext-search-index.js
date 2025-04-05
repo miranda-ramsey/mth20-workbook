@@ -586,6 +586,96 @@ var ptx_lunr_docs = [
   "body": " Homework: Problem Set 1   In addition to the homework problems on ALEKS, complete the following problems by hand:    Book Problems    pp 89-91: 22-28, 37-42, 53-61, 71, 72, 77, 86, 88, 91, 93, 98  pp 494-495: 1, 2, 15-17  pp 594-595: 1-6, 37-40     "
 },
 {
+  "id": "ws-factoring",
+  "level": "1",
+  "url": "ws-factoring.html",
+  "type": "Subsection",
+  "number": "",
+  "title": "Factoring",
+  "body": " Factoring   This worksheet references topics from Section 2.2, part 1 and 2.    Worksheet: Factoring    Practice using divisibility rules.  Identify factors of numbers.     Vocabulary  Fill in the blanks.  When two numbers are multiplied together, they are called , and the result is called a .  Divisibility Rules  Write down the divisibility rules for each of the numbers.  2 3 4 5 6 8 9    Using Divisibility Rules  For each of the following numbers, use divisibility rules to identify the numbers that divide it evenly.  24 98  Word Problem Sean wants to build a rectangular patio using big concrete square tiles. If he has 12 tiles, how many different rectangles can he make without cutting a tile or having any left over? It may be helpful to draw pictures or create a model.  Factorizations  A factorization of a number is a multiplication statement showing numbers that multiply to get . For example, a factorization of is . In the previous problem, you used geometry to find factorizations of 12. For each of the following numbers, find two different factorizations.  8 14 45    Factor\/Sum Puzzle In each row, find two factors whose product is the number in the first column and whose sum is the number in the last column. The first row is done for you as an example.       Product  Factor  Factor  Sum                                                   The last two are tricky! Remember that you can ask your instructor or classmates for help.  Self Reflection On a scale of 1-5, how confident are you with the material in this worksheet? Were any of the exercises confusing or frustrating? If so, identify them here and write down your plan to master those topics.    "
+},
+{
+  "id": "worksheet-factoring-2",
+  "level": "2",
+  "url": "ws-factoring.html#worksheet-factoring-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Practice using divisibility rules.  Identify factors of numbers.   "
+},
+{
+  "id": "worksheet-factoring-3-1",
+  "level": "2",
+  "url": "ws-factoring.html#worksheet-factoring-3-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Vocabulary.",
+  "body": "Vocabulary  Fill in the blanks.  When two numbers are multiplied together, they are called , and the result is called a . "
+},
+{
+  "id": "worksheet-factoring-3-2",
+  "level": "2",
+  "url": "ws-factoring.html#worksheet-factoring-3-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "Divisibility Rules.",
+  "body": "Divisibility Rules  Write down the divisibility rules for each of the numbers.  2 3 4 5 6 8 9 "
+},
+{
+  "id": "worksheet-factoring-4-1",
+  "level": "2",
+  "url": "ws-factoring.html#worksheet-factoring-4-1",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Using Divisibility Rules.",
+  "body": "Using Divisibility Rules  For each of the following numbers, use divisibility rules to identify the numbers that divide it evenly.  24 98 "
+},
+{
+  "id": "worksheet-factoring-4-2",
+  "level": "2",
+  "url": "ws-factoring.html#worksheet-factoring-4-2",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "Word Problem.",
+  "body": "Word Problem Sean wants to build a rectangular patio using big concrete square tiles. If he has 12 tiles, how many different rectangles can he make without cutting a tile or having any left over? It may be helpful to draw pictures or create a model. "
+},
+{
+  "id": "worksheet-factoring-4-3",
+  "level": "2",
+  "url": "ws-factoring.html#worksheet-factoring-4-3",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "Factorizations.",
+  "body": "Factorizations  A factorization of a number is a multiplication statement showing numbers that multiply to get . For example, a factorization of is . In the previous problem, you used geometry to find factorizations of 12. For each of the following numbers, find two different factorizations.  8 14 45 "
+},
+{
+  "id": "worksheet-factoring-5-1",
+  "level": "2",
+  "url": "ws-factoring.html#worksheet-factoring-5-1",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "Factor\/Sum Puzzle.",
+  "body": "Factor\/Sum Puzzle In each row, find two factors whose product is the number in the first column and whose sum is the number in the last column. The first row is done for you as an example.       Product  Factor  Factor  Sum                                                   The last two are tricky! Remember that you can ask your instructor or classmates for help. "
+},
+{
+  "id": "worksheet-factoring-5-2",
+  "level": "2",
+  "url": "ws-factoring.html#worksheet-factoring-5-2",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "Self Reflection.",
+  "body": "Self Reflection On a scale of 1-5, how confident are you with the material in this worksheet? Were any of the exercises confusing or frustrating? If so, identify them here and write down your plan to master those topics. "
+},
+{
+  "id": "group-fizz-buzz",
+  "level": "1",
+  "url": "group-fizz-buzz.html",
+  "type": "Subsection",
+  "number": "",
+  "title": "Group Activity: Fizz Buzz",
+  "body": " Group Activity: Fizz Buzz   How To Play    This is a cooperative game. The goal is for the whole team to count to 100 without making any mistakes.  Starting at 1, each player says the next number in turn.  The catch is, you cannot say numbers that are divisible by 3 or 5.  If a number is divisible by 3, you must say \"Fizz\" instead.  If a number is divisible by 5, you must say \"Buzz\" instead.  If a number is divisible by both 3 and 5, you must say \"FizzBuzz\" instead.  If a player makes a mistake, the team starts over at 1!  You can play again with a different pair of numbers instead of 3 and 5. Smaller numbers work best!  For a slightly harder version, you can add a third number that is not allowed, and say \"Toes\" instead. This means some numbers have to be \"FizzToes\", some \"BuzzToes\", and some \"FizzBuzzToes!\"   "
+},
+{
   "id": "fractions",
   "level": "1",
   "url": "fractions.html",

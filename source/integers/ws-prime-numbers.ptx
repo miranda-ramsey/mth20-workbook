@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subsection xml:id="ws-prime-numbers" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Prime Numbers</title>
+	<introduction>
+		<p>
+			This worksheet references topics from Chapter 2.		
+		</p>
+	</introduction>
+	<worksheet xml:id="worksheet-number-line-practice">
+		<title>Worksheet: Prime Number Identification</title>
+		<objectives>
+			<ul>
+				<li>Identify all of the prime numbers from 1-50.</li>
+				<li>Practice writing whole numbers as their prime factorization.</li>
+			</ul>
+		</objectives>
+		<page>
+			<exercisegroup cols="2">
+				<title>Introduction to Integers</title>
+				<introduction>
+					<p>
+						Discuss each of the following situations with your group and write about what it 
+						means for a number to be positive, negative, and zero.
+					</p>
+				</introduction>
+				<exercise workspace="0.25in">
+					<title>Temperature</title>
+					<task>
+						<p>Positive:</p>
+					</task>
+					<task>
+						<p>Negative:</p>
+					</task>
+					<task>
+						<p>Zero:</p>
+					</task>
+				</exercise>
+				<exercise workspace="0.25in">
+					<title>Checking account balance</title>
+					<task>
+						<p>Positive:</p>
+					</task>
+					<task>
+						<p>Negative:</p>
+					</task>
+					<task>
+						<p>Zero:</p>
+					</task>
+				</exercise>
+				<exercise workspace="0.25in">
+					<title>Elevation</title>
+					<task>
+						<p>Positive:</p>
+					</task>
+					<task>
+						<p>Negative:</p>
+					</task>
+					<task>
+						<p>Zero:</p>
+					</task>
+				</exercise>
+				<exercise workspace="0.25in">
+					<title>Profit for a business</title>
+					<task>
+						<p>Positive:</p>
+					</task>
+					<task>
+						<p>Negative:</p>
+					</task>
+					<task>
+						<p>Zero:</p>
+					</task>
+				</exercise>
+			</exercisegroup>
+			<exercisegroup cols="2">
+				<introduction>
+					<p>Answer the following by comparing the two values.</p>
+				</introduction>
+				<exercise workspace="0.25in">
+					<statement>Which is warmer: <m>-3</m><degree/>F or <m>-5</m><degree/>F?</statement>
+				</exercise>
+				<exercise workspace="0.25in">
+					<statement>How much warmer is <m>20</m><degree/>F than <m>-10</m><degree/>F?</statement>
+				</exercise>
+			</exercisegroup>
+		</page>
+		<page>
+			<exercise workspace="0.5in">
+				<introduction>
+					<p>
+					Rewrite each statement to use negative numbers instead of positive numbers, changing terms if needed to 
+					convey the same information.
+					</p>
+				</introduction>
+				<task><p>We were <m>100</m> feet below sea level.</p></task>
+				<task><p>The brewing company had a <m>\$1{,}500</m> loss in 2015.</p></task>
+				<task><p>The temperature outside was <m>12</m><degree/>F below zero.</p></task>
+			</exercise>
+			<exercise workspace="0.2in">
+				<title>The Number Line</title>
+				<introduction>
+					<p>
+						Use the number line to solve the problems.
+					</p>
+					<image xml:id="number-line">
+						<latex-image>
+							<![CDATA[
+							\begin{tikzpicture}
+								\draw[<->] (-6,0) -- (6,0);
+						    	\foreach \x in {-5, -2.5, ..., 5} {
+							    	\draw (\x, 0.25) -- (\x, -0.25);
+						   		}
+						    	\foreach \x in {-5.5, -4, ..., 5.5} {
+							    	\draw (\x, 0.1) -- (\x, -0.1);
+						   		}
+								\node at (-5,-0.5) {$-10$};
+								\node at (-2.5,-0.5) {$-5$};
+								\node at (0,-0.5) {$0$};
+								\node at (2.5,-0.5) {$5$};
+								\node at (5,-0.5) {$10$};
+							\end{tikzpicture}
+							]]>
+						</latex-image>
+					</image>
+				</introduction>
+				<task><p><m>4 + 5</m> (Start on <m>4</m>, move right <m>5</m>)</p></task>
+				<task><p><m>7 + (-3)</m> (Start on <m>7</m>, move left <m>3</m>)</p></task>
+				<task><p><m>-4 + -3</m> (Start on <m>-4</m>, move left <m>3</m>)</p></task>
+				<task><p><m>-10 + 3</m></p></task>
+				<task><p><m>3 + (-8)</m></p></task>
+				<task><p><m>-6 + (-4) + 7 + 3</m></p></task>
+			</exercise>
+		</page>
+		<page>
+			<exercise workspace = "0.4in">
+				<title>Multiplying Integers</title>
+				<introduction>
+					<p>Write each multiplication as an equivalent addition problem. Make up a context for it. Two examples are provided.</p>
+					<p>Example A: <m>4\cdot3 = 3 + 3 + 3 + 3 = 12</m>.</p>
+					<p>I made <m>3</m> quilts per month for <m>4</m> months, making <m>12</m> quilts in total.</p>
+					<p>Example B: <m>3(-15) = (-15) + (-15) + (-15) = -45</m>.</p>
+					<p>I bought <m>3</m> movie tickets for <m>$15</m> dollars each, spending a total of <m>$45</m> dollars.</p>
+				</introduction>
+				<task><p><m>5(-7)</m></p></task>
+				<task><p><m>-3(14)</m></p></task>
+				<task><p><m>-5 \cdot 12</m></p></task>
+				<task><p><m>(-20)(40)</m></p></task>
+			</exercise>
+			<exercise workspace = "0.5in">
+				<title>Exploration</title>
+				<task><p>What can you say about a <em>negative</em> number multiplied by a <em>positive</em> number?</p></task>
+				<task><p>What can you say about a <em>negative number</em> multiplied by a <em>negative</em> number?</p></task>
+			</exercise>
+		</page>
+		<page>
+			<exercisegroup>
+				<title>Comparing Integers</title>
+				<introduction>
+					<p>Think about where each pair of numbers is on the number line and circle the correct statement comparing them. Then fill in the mathematical symbol 
+					(<m>\lt</m> or <m>\gt</m>) showing the relationship.</p>
+				</introduction>
+				<exercise>
+					<title>2 and 5</title>
+					<task><p><m>2</m> is to the (left/right) of <m>5</m> on the number line.</p></task>
+					<task><p><m>2</m> is (less than/greater than) <m>5</m>.</p></task>
+					<task><p><m>2 \qquad 5</m>.</p></task>
+				</exercise>
+				<exercise>
+					<title>3 and -3</title>
+					<task><p><m>3</m> is to the (left/right) of <m>-3</m> on the number line.</p></task>
+					<task><p><m>3</m> is (less than/greater than) <m>-3</m>.</p></task>
+					<task><p><m>3 \qquad -3</m>.</p></task>
+				</exercise>
+				<exercise>
+					<title>-4 and -6</title>
+					<task><p><m>-4</m> is to the (left/right) of <m>-6</m> on the number line.</p></task>
+					<task><p><m>-4</m> is (less than/greater than) <m>-6</m>.</p></task>
+					<task><p><m>-4 \qquad -6</m>.</p></task>
+				</exercise>
+				<exercise>
+					<title>-6 and -4</title>
+					<task><p><m>-6</m> is to the (left/right) of <m>-4</m> on the number line.</p></task>
+					<task><p><m>-6</m> is (less than/greater than) <m>-4</m>.</p></task>
+					<task><p><m>-6 \qquad -4</m>.</p></task>
+				</exercise>
+			</exercisegroup>
+			<exercise workspace = ".5in">
+				<title>Self Reflection</title>
+				<p>On a scale of 1-5, how confident are you with the material in this worksheet?</p>
+				<p>Were any of the exercises confusing or frustrating? If so, identify them here and
+					write down your plan to master those topics.</p>
+			</exercise>
+		</page>
+	</worksheet>
+</subsection>

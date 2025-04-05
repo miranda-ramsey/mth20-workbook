@@ -24,9 +24,10 @@
 		<xi:include href="./integers/ws-integers.ptx" />
 		<xi:include href="./integers/group-zero-sum-game.ptx" />
 		<xi:include href="./integers/problem-set-1.ptx" />
+		<xi:include href="./integers/ws-factoring.ptx" />
+		<xi:include href="./integers/group-fizz-buzz.ptx" />
 		<!--
 		<xi:include href="./integers/ws-prime-numbers.ptx" />
-		<xi:include href="./integers/ws-factors.ptx" />
 		-->
 	</section>
 
