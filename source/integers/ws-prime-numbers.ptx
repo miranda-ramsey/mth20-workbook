@@ -4,11 +4,11 @@
 	<title>Prime Numbers</title>
 	<introduction>
 		<p>
-			This worksheet references topics from Chapter 2.		
+			This worksheet references topics from Section 2.2, part 3 and 4.		
 		</p>
 	</introduction>
-	<worksheet xml:id="worksheet-number-line-practice">
-		<title>Worksheet: Prime Number Identification</title>
+	<worksheet xml:id="worksheet-prime-numbers">
+		<title>Worksheet: Prime Numbers</title>
 		<objectives>
 			<ul>
 				<li>Identify all of the prime numbers from 1-50.</li>
@@ -16,173 +16,164 @@
 			</ul>
 		</objectives>
 		<page>
-			<exercisegroup cols="2">
-				<title>Introduction to Integers</title>
+			<exercise workspace="0.5in">
+				<title>The Sieve of Eratosthenes</title>
 				<introduction>
 					<p>
-						Discuss each of the following situations with your group and write about what it 
-						means for a number to be positive, negative, and zero.
+						Eratosthenes was an ancient greek mathematician who developed a technique for identifying primes using the following steps:
+						<ol>
+							<li>Start with a list of whole numbers greater than 1. Circle the lowest one (2). This is the first prime number.</li>
+							<li>Since any number divisible by 2 is composite, go through the list and cross out every number divisible by 2.</li>
+							<li>Find the next prime by circling the smallest number that hasn't been crossed out.</li>
+							<li>Cross out every number divisible by that prime number.</li>
+							<li>Continue this process, repeating steps c and d for each prime number in your list.</li>
+						</ol>
+						Perform the Sieve of Eratosthenes to identify each prime number from 2 to 50, and list them out below.
 					</p>
 				</introduction>
-				<exercise workspace="0.25in">
-					<title>Temperature</title>
-					<task>
-						<p>Positive:</p>
-					</task>
-					<task>
-						<p>Negative:</p>
-					</task>
-					<task>
-						<p>Zero:</p>
-					</task>
-				</exercise>
-				<exercise workspace="0.25in">
-					<title>Checking account balance</title>
-					<task>
-						<p>Positive:</p>
-					</task>
-					<task>
-						<p>Negative:</p>
-					</task>
-					<task>
-						<p>Zero:</p>
-					</task>
-				</exercise>
-				<exercise workspace="0.25in">
-					<title>Elevation</title>
-					<task>
-						<p>Positive:</p>
-					</task>
-					<task>
-						<p>Negative:</p>
-					</task>
-					<task>
-						<p>Zero:</p>
-					</task>
-				</exercise>
-				<exercise workspace="0.25in">
-					<title>Profit for a business</title>
-					<task>
-						<p>Positive:</p>
-					</task>
-					<task>
-						<p>Negative:</p>
-					</task>
-					<task>
-						<p>Zero:</p>
-					</task>
-				</exercise>
-			</exercisegroup>
+  				<tabular valign="top" top="major" left="major" bottom="major" right="major">
+					<col right="minor"/>
+					<col right="minor"/>
+					<col right="minor"/>
+					<col right="minor"/>
+					<col right="minor"/>
+					<col right="minor"/>
+					<col right="minor"/>
+					<col right="minor"/>
+					<col right="minor"/>
+					<col />
+					<row bottom="minor">
+						<cell></cell>
+						<cell>2</cell>
+						<cell>3</cell>
+						<cell>4</cell>
+						<cell>5</cell>
+						<cell>6</cell>
+						<cell>7</cell>
+						<cell>8</cell>
+						<cell>9</cell>
+						<cell>10</cell>
+					</row>
+					<row bottom="minor">
+						<cell>11</cell>
+						<cell>12</cell>
+						<cell>13</cell>
+						<cell>14</cell>
+						<cell>15</cell>
+						<cell>16</cell>
+						<cell>17</cell>
+						<cell>18</cell>
+						<cell>19</cell>
+						<cell>20</cell>
+					</row>
+					<row bottom="minor">
+						<cell>21</cell>
+						<cell>22</cell>
+						<cell>23</cell>
+						<cell>24</cell>
+						<cell>25</cell>
+						<cell>26</cell>
+						<cell>27</cell>
+						<cell>28</cell>
+						<cell>29</cell>
+						<cell>30</cell>
+					</row>
+					<row bottom="minor">
+						<cell>31</cell>
+						<cell>32</cell>
+						<cell>33</cell>
+						<cell>34</cell>
+						<cell>35</cell>
+						<cell>36</cell>
+						<cell>37</cell>
+						<cell>38</cell>
+						<cell>39</cell>
+						<cell>40</cell>
+					</row>
+					<row>
+						<cell>41</cell>
+						<cell>42</cell>
+						<cell>43</cell>
+						<cell>44</cell>
+						<cell>45</cell>
+						<cell>46</cell>
+						<cell>47</cell>
+						<cell>48</cell>
+						<cell>49</cell>
+						<cell>50</cell>
+					</row>
+				</tabular>
+			</exercise>
 			<exercisegroup cols="2">
-				<introduction>
-					<p>Answer the following by comparing the two values.</p>
-				</introduction>
+				<title>True or False</title>
 				<exercise workspace="0.25in">
-					<statement>Which is warmer: <m>-3</m><degree/>F or <m>-5</m><degree/>F?</statement>
+					<p>All odd numbers are prime.</p>
 				</exercise>
 				<exercise workspace="0.25in">
-					<statement>How much warmer is <m>20</m><degree/>F than <m>-10</m><degree/>F?</statement>
+					<p>All even numbers are composite.</p>
 				</exercise>
 			</exercisegroup>
 		</page>
 		<page>
-			<exercise workspace="0.5in">
+			<exercisegroup cols="2">
+				<title>Factor Trees</title>
 				<introduction>
-					<p>
-					Rewrite each statement to use negative numbers instead of positive numbers, changing terms if needed to 
-					convey the same information.
-					</p>
-				</introduction>
-				<task><p>We were <m>100</m> feet below sea level.</p></task>
-				<task><p>The brewing company had a <m>\$1{,}500</m> loss in 2015.</p></task>
-				<task><p>The temperature outside was <m>12</m><degree/>F below zero.</p></task>
-			</exercise>
-			<exercise workspace="0.2in">
-				<title>The Number Line</title>
-				<introduction>
-					<p>
-						Use the number line to solve the problems.
-					</p>
-					<image xml:id="number-line">
+					<p>A <term>factor tree</term> is a visual structure that helps find prime factorizations. Here is an example factor tree for 180.</p>
+						<image width="30%" xml:id="factor-tree">
 						<latex-image>
 							<![CDATA[
-							\begin{tikzpicture}
-								\draw[<->] (-6,0) -- (6,0);
-						    	\foreach \x in {-5, -2.5, ..., 5} {
-							    	\draw (\x, 0.25) -- (\x, -0.25);
-						   		}
-						    	\foreach \x in {-5.5, -4, ..., 5.5} {
-							    	\draw (\x, 0.1) -- (\x, -0.1);
-						   		}
-								\node at (-5,-0.5) {$-10$};
-								\node at (-2.5,-0.5) {$-5$};
-								\node at (0,-0.5) {$0$};
-								\node at (2.5,-0.5) {$5$};
-								\node at (5,-0.5) {$10$};
+							\begin{tikzpicture}[level/.style={sibling distance=20mm/#1}]
+								\node {180}
+								child {node {3}}
+								child {node {60}
+									child {node {6}
+										child {node {2}}
+										child {node {3}}
+										}
+									child {node {10}
+										child {node {2}}
+										child {node {5}}
+										}
+									};
 							\end{tikzpicture}
 							]]>
 						</latex-image>
 					</image>
+					<p>This shows that the prime factorization (after collecting and rearranging the prime factors) is <m>2 \cdot 2 \cdot 3 \cdot 3 \cdot 5</m>, or <m>2^2\cdot3^2\cdot5</m>.</p>
+					<p>Create a factor tree for each number by turning each number into two "branches" that are factors of that number, until all branches end with prime factors.</p>
 				</introduction>
-				<task><p><m>4 + 5</m> (Start on <m>4</m>, move right <m>5</m>)</p></task>
-				<task><p><m>7 + (-3)</m> (Start on <m>7</m>, move left <m>3</m>)</p></task>
-				<task><p><m>-4 + -3</m> (Start on <m>-4</m>, move left <m>3</m>)</p></task>
-				<task><p><m>-10 + 3</m></p></task>
-				<task><p><m>3 + (-8)</m></p></task>
-				<task><p><m>-6 + (-4) + 7 + 3</m></p></task>
-			</exercise>
+				<exercise workspace="1in">
+					<p>24</p>
+				</exercise>
+				<exercise workspace="1in">
+					<p>56</p>
+				</exercise>
+				<exercise workspace="1in">
+					<p>49</p>
+				</exercise>
+				<exercise workspace="1in">
+					<p>81</p>
+				</exercise>
+			</exercisegroup>
 		</page>
 		<page>
-			<exercise workspace = "0.4in">
-				<title>Multiplying Integers</title>
+			<exercisegroup cols="2">
+				<title>Greatest Common Factors</title>
 				<introduction>
-					<p>Write each multiplication as an equivalent addition problem. Make up a context for it. Two examples are provided.</p>
-					<p>Example A: <m>4\cdot3 = 3 + 3 + 3 + 3 = 12</m>.</p>
-					<p>I made <m>3</m> quilts per month for <m>4</m> months, making <m>12</m> quilts in total.</p>
-					<p>Example B: <m>3(-15) = (-15) + (-15) + (-15) = -45</m>.</p>
-					<p>I bought <m>3</m> movie tickets for <m>$15</m> dollars each, spending a total of <m>$45</m> dollars.</p>
+					<p>The <term>Greatest Common Factor (GCF)</term> of a group of two or more numbers is the greatest factor that is shared between all of the numbers. For instance, the greatest common factor of 10 and 15 is 5.</p>
+					<p>Find the greatest common factor for the following groups.</p>
 				</introduction>
-				<task><p><m>5(-7)</m></p></task>
-				<task><p><m>-3(14)</m></p></task>
-				<task><p><m>-5 \cdot 12</m></p></task>
-				<task><p><m>(-20)(40)</m></p></task>
-			</exercise>
-			<exercise workspace = "0.5in">
-				<title>Exploration</title>
-				<task><p>What can you say about a <em>negative</em> number multiplied by a <em>positive</em> number?</p></task>
-				<task><p>What can you say about a <em>negative number</em> multiplied by a <em>negative</em> number?</p></task>
-			</exercise>
-		</page>
-		<page>
-			<exercisegroup>
-				<title>Comparing Integers</title>
-				<introduction>
-					<p>Think about where each pair of numbers is on the number line and circle the correct statement comparing them. Then fill in the mathematical symbol 
-					(<m>\lt</m> or <m>\gt</m>) showing the relationship.</p>
-				</introduction>
-				<exercise>
-					<title>2 and 5</title>
-					<task><p><m>2</m> is to the (left/right) of <m>5</m> on the number line.</p></task>
-					<task><p><m>2</m> is (less than/greater than) <m>5</m>.</p></task>
-					<task><p><m>2 \qquad 5</m>.</p></task>
+				<exercise workspace = "0.25in">
+					<p>6, 9</p>
 				</exercise>
-				<exercise>
-					<title>3 and -3</title>
-					<task><p><m>3</m> is to the (left/right) of <m>-3</m> on the number line.</p></task>
-					<task><p><m>3</m> is (less than/greater than) <m>-3</m>.</p></task>
-					<task><p><m>3 \qquad -3</m>.</p></task>
+				<exercise workspace = "0.25in">
+					<p>8, 12, 18</p>
 				</exercise>
-				<exercise>
-					<title>-4 and -6</title>
-					<task><p><m>-4</m> is to the (left/right) of <m>-6</m> on the number line.</p></task>
-					<task><p><m>-4</m> is (less than/greater than) <m>-6</m>.</p></task>
-					<task><p><m>-4 \qquad -6</m>.</p></task>
+				<exercise workspace = "0.25in">
+					<p>16, 17</p>
 				</exercise>
-				<exercise>
-					<title>-6 and -4</title>
-					<task><p><m>-6</m> is to the (left/right) of <m>-4</m> on the number line.</p></task>
-					<task><p><m>-6</m> is (less than/greater than) <m>-4</m>.</p></task>
-					<task><p><m>-6 \qquad -4</m>.</p></task>
+				<exercise workspace = "0.25in">
+					<p>10, 20, 30</p>
 				</exercise>
 			</exercisegroup>
 			<exercise workspace = ".5in">

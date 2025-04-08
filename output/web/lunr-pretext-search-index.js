@@ -676,6 +676,150 @@ var ptx_lunr_docs = [
   "body": " Group Activity: Fizz Buzz   How To Play    This is a cooperative game. The goal is for the whole team to count to 100 without making any mistakes.  Starting at 1, each player says the next number in turn.  The catch is, you cannot say numbers that are divisible by 3 or 5.  If a number is divisible by 3, you must say \"Fizz\" instead.  If a number is divisible by 5, you must say \"Buzz\" instead.  If a number is divisible by both 3 and 5, you must say \"FizzBuzz\" instead.  If a player makes a mistake, the team starts over at 1!  You can play again with a different pair of numbers instead of 3 and 5. Smaller numbers work best!  For a slightly harder version, you can add a third number that is not allowed, and say \"Toes\" instead. This means some numbers have to be \"FizzToes\", some \"BuzzToes\", and some \"FizzBuzzToes!\"   "
 },
 {
+  "id": "ws-prime-numbers",
+  "level": "1",
+  "url": "ws-prime-numbers.html",
+  "type": "Subsection",
+  "number": "",
+  "title": "Prime Numbers",
+  "body": " Prime Numbers   This worksheet references topics from Section 2.2, part 3 and 4.    Worksheet: Prime Numbers    Identify all of the prime numbers from 1-50.  Practice writing whole numbers as their prime factorization.     The Sieve of Eratosthenes  Eratosthenes was an ancient greek mathematician who developed a technique for identifying primes using the following steps:  Start with a list of whole numbers greater than 1. Circle the lowest one (2). This is the first prime number.  Since any number divisible by 2 is composite, go through the list and cross out every number divisible by 2.  Find the next prime by circling the smallest number that hasn't been crossed out.  Cross out every number divisible by that prime number.  Continue this process, repeating steps c and d for each prime number in your list.  Perform the Sieve of Eratosthenes to identify each prime number from 2 to 50, and list them out below.               2  3  4  5  6  7  8  9  10    11  12  13  14  15  16  17  18  19  20    21  22  23  24  25  26  27  28  29  30    31  32  33  34  35  36  37  38  39  40    41  42  43  44  45  46  47  48  49  50     True or False  All odd numbers are prime.  All even numbers are composite.      Factor Trees   A factor tree is a visual structure that helps find prime factorizations. Here is an example factor tree for 180.     This shows that the prime factorization (after collecting and rearranging the prime factors) is , or .  Create a factor tree for each number by turning each number into two \"branches\" that are factors of that number, until all branches end with prime factors.   24  56  49  81      Greatest Common Factors   The Greatest Common Factor (GCF) of a group of two or more numbers is the greatest factor that is shared between all of the numbers. For instance, the greatest common factor of 10 and 15 is 5.  Find the greatest common factor for the following groups.   6, 9  8, 12, 18  16, 17  10, 20, 30   Self Reflection On a scale of 1-5, how confident are you with the material in this worksheet? Were any of the exercises confusing or frustrating? If so, identify them here and write down your plan to master those topics.    "
+},
+{
+  "id": "worksheet-prime-numbers-2",
+  "level": "2",
+  "url": "ws-prime-numbers.html#worksheet-prime-numbers-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Identify all of the prime numbers from 1-50.  Practice writing whole numbers as their prime factorization.   "
+},
+{
+  "id": "worksheet-prime-numbers-3-1",
+  "level": "2",
+  "url": "ws-prime-numbers.html#worksheet-prime-numbers-3-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "The Sieve of Eratosthenes.",
+  "body": "The Sieve of Eratosthenes  Eratosthenes was an ancient greek mathematician who developed a technique for identifying primes using the following steps:  Start with a list of whole numbers greater than 1. Circle the lowest one (2). This is the first prime number.  Since any number divisible by 2 is composite, go through the list and cross out every number divisible by 2.  Find the next prime by circling the smallest number that hasn't been crossed out.  Cross out every number divisible by that prime number.  Continue this process, repeating steps c and d for each prime number in your list.  Perform the Sieve of Eratosthenes to identify each prime number from 2 to 50, and list them out below.               2  3  4  5  6  7  8  9  10    11  12  13  14  15  16  17  18  19  20    21  22  23  24  25  26  27  28  29  30    31  32  33  34  35  36  37  38  39  40    41  42  43  44  45  46  47  48  49  50   "
+},
+{
+  "id": "worksheet-prime-numbers-3-2-2",
+  "level": "2",
+  "url": "ws-prime-numbers.html#worksheet-prime-numbers-3-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "All odd numbers are prime. "
+},
+{
+  "id": "worksheet-prime-numbers-3-2-3",
+  "level": "2",
+  "url": "ws-prime-numbers.html#worksheet-prime-numbers-3-2-3",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "All even numbers are composite. "
+},
+{
+  "id": "worksheet-prime-numbers-4-1-2-1",
+  "level": "2",
+  "url": "ws-prime-numbers.html#worksheet-prime-numbers-4-1-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "factor tree "
+},
+{
+  "id": "worksheet-prime-numbers-4-1-3",
+  "level": "2",
+  "url": "ws-prime-numbers.html#worksheet-prime-numbers-4-1-3",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "24 "
+},
+{
+  "id": "worksheet-prime-numbers-4-1-4",
+  "level": "2",
+  "url": "ws-prime-numbers.html#worksheet-prime-numbers-4-1-4",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "56 "
+},
+{
+  "id": "worksheet-prime-numbers-4-1-5",
+  "level": "2",
+  "url": "ws-prime-numbers.html#worksheet-prime-numbers-4-1-5",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "49 "
+},
+{
+  "id": "worksheet-prime-numbers-4-1-6",
+  "level": "2",
+  "url": "ws-prime-numbers.html#worksheet-prime-numbers-4-1-6",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": "81 "
+},
+{
+  "id": "worksheet-prime-numbers-5-1-2-1",
+  "level": "2",
+  "url": "ws-prime-numbers.html#worksheet-prime-numbers-5-1-2-1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Greatest Common Factor (GCF) "
+},
+{
+  "id": "worksheet-prime-numbers-5-1-3",
+  "level": "2",
+  "url": "ws-prime-numbers.html#worksheet-prime-numbers-5-1-3",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": "6, 9 "
+},
+{
+  "id": "worksheet-prime-numbers-5-1-4",
+  "level": "2",
+  "url": "ws-prime-numbers.html#worksheet-prime-numbers-5-1-4",
+  "type": "Worksheet Exercise",
+  "number": "9",
+  "title": "",
+  "body": "8, 12, 18 "
+},
+{
+  "id": "worksheet-prime-numbers-5-1-5",
+  "level": "2",
+  "url": "ws-prime-numbers.html#worksheet-prime-numbers-5-1-5",
+  "type": "Worksheet Exercise",
+  "number": "10",
+  "title": "",
+  "body": "16, 17 "
+},
+{
+  "id": "worksheet-prime-numbers-5-1-6",
+  "level": "2",
+  "url": "ws-prime-numbers.html#worksheet-prime-numbers-5-1-6",
+  "type": "Worksheet Exercise",
+  "number": "11",
+  "title": "",
+  "body": "10, 20, 30 "
+},
+{
+  "id": "worksheet-prime-numbers-5-2",
+  "level": "2",
+  "url": "ws-prime-numbers.html#worksheet-prime-numbers-5-2",
+  "type": "Worksheet Exercise",
+  "number": "12",
+  "title": "Self Reflection.",
+  "body": "Self Reflection On a scale of 1-5, how confident are you with the material in this worksheet? Were any of the exercises confusing or frustrating? If so, identify them here and write down your plan to master those topics. "
+},
+{
   "id": "fractions",
   "level": "1",
   "url": "fractions.html",
