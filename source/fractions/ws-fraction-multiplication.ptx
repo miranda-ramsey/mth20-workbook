@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subsection xml:id="ws-factoring" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Factoring</title>
+	<introduction>
+		<p>
+			This worksheet references topics from Section 2.2, part 1 and 2.
+		</p>
+	</introduction>
+	<worksheet xml:id="worksheet-factoring">
+		<title>Worksheet: Factoring</title>
+		<objectives>
+			<ul>
+				<li>Practice using divisibility rules.</li>
+				<li>Identify factors of numbers.</li>
+			</ul>
+		</objectives>
+		<page>
+			<exercise workspace="0.25in">
+				<title>Vocabulary</title>
+				<introduction>
+					<p>
+						Fill in the blanks.
+					</p>
+				</introduction>
+					<p>When two numbers are multiplied together, they are called <fillin/>, and the result is called a <fillin/>.</p>
+			</exercise>
+			<exercise workspace="0.25in">
+				<title>Divisibility Rules</title>
+				<introduction>
+					<p>
+						Write down the divisibility rules for each of the numbers.
+					</p>
+				</introduction>
+				<task>
+					<p>2</p>
+				</task>
+				<task>
+					<p>3</p>
+				</task>
+				<task>
+					<p>4</p>
+				</task>
+				<task>
+					<p>5</p>
+				</task>
+				<task>
+					<p>6</p>
+				</task>
+				<task>
+					<p>8</p>
+				</task>
+				<task>
+					<p>9</p>
+				</task>
+			</exercise>
+		</page>
+		<page>
+			<exercise workspace="0.25in">
+				<title>Using Divisibility Rules</title>
+				<introduction>
+					<p>For each of the following numbers, use divisibility rules to identify the numbers that divide it evenly.</p>
+				</introduction>
+				<task>
+					<p>24</p>
+					<p><m>2 \quad 3 \quad 4 \quad 5 \quad 6 \quad 8 \quad 9</m></p>
+				</task>
+				<task>
+					<p>98</p>
+					<p><m>2 \quad 3 \quad 4 \quad 5 \quad 6 \quad 8 \quad 9</m></p>
+				</task>
+			</exercise>
+			<exercise workspace="1in">
+				<title>Word Problem</title>
+				<p>Sean wants to build a rectangular patio using big concrete square tiles. If he has 12 tiles, how many different rectangles can he make without cutting a tile or having any left over? It may be helpful to draw pictures or create a model.</p>
+			</exercise>
+			<exercise workspace="0.25in">
+				<title>Factorizations</title>
+				<introduction>
+					<p>A <term>factorization</term> of a number <m>n</m> is a multiplication statement showing numbers that multiply to get <m>n</m>. For example, a factorization of <m>6</m> is <m>2 \cdot 3</m>. In the previous problem, you used geometry to find factorizations of 12. For each of the following numbers, find two different factorizations.</p>
+				</introduction>
+				<task><p>8</p></task>
+				<task><p>14</p></task>
+				<task><p>45</p></task>
+			</exercise>
+		</page>
+		<page>
+			<exercise workspace="1in">
+				<title>Factor/Sum Puzzle</title>
+				<p>In each row, find two factors whose product is the number in the first column and whose sum is the number in the last column. The first row is done for you as an example.</p>
+
+  				<tabular valign="top" top="major" left="major" bottom="major" right="major">
+					<col right="minor"/>
+					<col right="minor"/>
+					<col right="minor"/>
+					<col />
+					<row header="yes" bottom="minor">
+						<cell>Product</cell>
+						<cell>Factor</cell>
+						<cell>Factor</cell>
+						<cell>Sum</cell>
+					</row>
+					<row bottom="minor">
+						<cell><m>36</m></cell>
+						<cell><m>12</m></cell>
+						<cell><m>3</m></cell>
+						<cell><m>15</m></cell>
+					</row>
+					<row bottom="minor">
+						<cell><m>6</m></cell>
+						<cell><fillin/></cell>
+						<cell><fillin/></cell>
+						<cell><m>5</m></cell>
+					</row>
+					<row bottom="minor">
+						<cell><m>12</m></cell>
+						<cell><fillin/></cell>
+						<cell><fillin/></cell>
+						<cell><m>7</m></cell>
+					</row>
+					<row bottom="minor">
+						<cell><m>24</m></cell>
+						<cell><fillin/></cell>
+						<cell><fillin/></cell>
+						<cell><m>11</m></cell>
+					</row>
+					<row bottom="minor">
+						<cell><m>15</m></cell>
+						<cell><fillin/></cell>
+						<cell><fillin/></cell>
+						<cell><m>16</m></cell>
+					</row>
+					<row bottom="minor">
+						<cell><m>81</m></cell>
+						<cell><fillin/></cell>
+						<cell><fillin/></cell>
+						<cell><m>30</m></cell>
+					</row>
+					<row bottom="minor">
+						<cell><m>-18</m></cell>
+						<cell><fillin/></cell>
+						<cell><fillin/></cell>
+						<cell><m>7</m></cell>
+					</row>
+					<row>
+						<cell><m>36</m></cell>
+						<cell><fillin/></cell>
+						<cell><fillin/></cell>
+						<cell><m>-12</m></cell>
+					</row>
+				</tabular>
+				<p>The last two are tricky! Remember that you can ask your instructor or classmates for help.</p>
+			</exercise>
+
+			<exercise workspace = ".5in">
+				<title>Self Reflection</title>
+				<p>On a scale of 1-5, how confident are you with the material in this worksheet?</p>
+				<p>Were any of the exercises confusing or frustrating? If so, identify them here and
+					write down your plan to master those topics.</p>
+			</exercise>
+		</page>
+	</worksheet>
+</subsection>

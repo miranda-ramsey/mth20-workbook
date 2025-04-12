@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subsection xml:id="group-prime-factory" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Group Activity: Prime Factory</title>
+	<introduction>
+		<p>
+			You will need:
+			<ul>
+				<li>
+					<p>A modified deck of cards containing:</p>
+					<ul>
+						<li>Eight 2s</li>
+						<li>Eight 3s</li>
+						<li>Six 5s</li>
+						<li>Four 7s</li>
+						<li>Four Jokers</li>
+					</ul>
+				</li>
+				<li>A Prime Factory Game Board (see instructions below to make a game board)</li>
+				<li>Colored markers or game pieces, one color per player</li>
+			</ul>
+			Numbered cards have the value printed on them, and Jokers are wild and can represent either 2, 3, 5, or 7.
+		</p>
+	</introduction>
+	<paragraphs>
+		<title>How To Play</title>
+		<p>
+			<ol>
+				<li>Set up the game by shuffling the deck and dealing 9 cards face up in a square next to the game board.</li>
+				<li>Your goal is to "build" numbers on the game board by multiplying prime numbers together using the face-up cards.</li>
+				<li>Determine who will play first.</li>
+				<li>On your turn, choose and discard face-up cards that <alert>multiply</alert> together to get an available number on the game board. Cross out the product you have made with your colored marker (or cover it with one of your game pieces) to claim it. Replace the cards you took by drawing new cards from the deck.</li>
+				<li>The cards that you remove represent the <term>Prime Factorization</term> of the number you build with them.</li>
+				<li>Each number is worth points based on the number of prime factors it has (see <xref ref="prime-factory-points-table"/>), so try to use as many cards you can. As more numbers are built and crossed out, the game will get harder!</li>
+				<li>When the deck is empty, shuffle the discard pile to continue playing.</li>
+				<li>Once all numbers on the board have been built, score points for each of the numbers you built using <xref ref="prime-factory-points-table"/>. Whoever has the highest total wins!</li>
+			</ol>
+		</p>
+	</paragraphs>
+	<table xml:id="prime-factory-points-table">
+		<title>Points Table</title>
+		<tabular left="major" top="major" bottom="major" right="major">
+			<col right="minor"/>
+			<col right="minor"/>
+			<col/>
+			<row header="yes" bottom="major">
+				<cell># of Factors</cell>
+				<cell>Points</cell>
+				<cell>Products</cell>
+			</row>
+			<row bottom="minor">
+				<cell>2</cell>
+				<cell>2</cell>
+				<cell>4, 6, 9, 10, 14, 15, 21, 25, 35, 49</cell>
+			</row>
+			<row bottom="minor">
+				<cell>3</cell>
+				<cell>3</cell>
+				<cell>8, 12, 18, 20, 27,28, 30, 42, 45, 50, 63, 70, 75, 98</cell>
+			</row>
+			<row bottom="minor">
+				<cell>4</cell>
+				<cell>5</cell>
+				<cell>16, 24, 36, 40, 54, 56, 60, 84, 90, 100</cell>
+			</row>
+			<row bottom="minor">
+				<cell>5</cell>
+				<cell>10</cell>
+				<cell>32, 48, 72, 80</cell>
+			</row>
+			<row>
+				<cell>6</cell>
+				<cell>20</cell>
+				<cell>64, 96</cell>
+			</row>
+		</tabular>
+	</table>
+	<paragraphs>
+		<title>Creating a Game Board</title>
+		<p>To create a game board to play on, simply write out all of the products from <xref ref="prime-factory-points-table"/> on a piece of paper, grouped by how many points they are worth. If playing with game pieces, make sure to leave enough space between numbers on your game board.</p>
+	</paragraphs>
+</subsection>

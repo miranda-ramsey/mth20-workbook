@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subsection xml:id="ws-fractions" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Fractions</title>
+	<introduction>
+		<p>
+			This worksheet references topics from Section 2.1.
+		</p>
+	</introduction>
+	<worksheet xml:id="worksheet-fractions">
+		<title>Worksheet: Fractions</title>
+		<objectives>
+			<ul>
+				<li>Identify the numerator and denominator in "parts of a whole" problems.</li>
+				<li>Compare the sizes of different fractions with the same numerator or the same denominator.</li>
+				<li>Plot fractions on a number line.</li>
+				<li>Change mixed numbers to improper fractions, and improper fractions to mixed numbers.</li>
+			</ul>
+		</objectives>
+		<page>
+			<exercise workspace="0.25in">
+				<title>Vocabulary</title>
+				<introduction>
+					<p>
+						Fill in the blanks.
+					</p>
+				</introduction>
+				<task><p>The top part of a fraction is called the <fillin/>, and the bottom is called the <fillin/>.</p></task>
+				<task><p>Increasing the <fillin/> makes a fraction bigger.</p></task>
+				<task><p>Increasing the <fillin/> makes a fraction smaller.</p></task>
+			</exercise>
+			<exercisegroup cols="2">
+				<title>Identification Practice</title>
+				<introduction>
+					<p>Identify the numerator and the denominator for each fraction.</p>
+				</introduction>
+				<exercise workspace="1in">
+					<statement>
+						<p><m>\dfrac{2}{3}</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="1in">
+					<statement>
+						<p><m>\dfrac{12}{11}</m></p>
+					</statement>
+				</exercise>
+			</exercisegroup>
+
+		</page>
+		<page>
+			<exercisegroup cols="2">
+				<title>Parts of a Whole</title>
+				<introduction>
+					<p>
+						Answer the following questions using fractions.	
+					</p>
+				</introduction>
+				<exercise workspace="0.25in">
+					<statement>
+						<p>Write a fraction that represents a minute as part of an hour.</p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.25in">
+					<statement>
+						<p>What fraction of an hour is 45 minutes?</p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.25in">
+					<statement>
+						<p>Write a fraction that represents the shaded area.</p>
+					<image width="60%">
+						<latex-image>
+							<![CDATA[
+								\begin{tikzpicture}
+								\filldraw[thick, color=red, fill=red!20] (1,0) arc (0:90:1) -- (0,0) -- (1,0);
+								\filldraw[thick, color=red, fill=red!20] (0,1) arc (90:180:1) -- (0,0) -- (0,1);
+								\filldraw[thick, color=red, fill=red!20] (-1,0) arc (180:270:1) -- (0,0) -- (-1,0);
+								\draw[thick, color=red] (0,-1) arc (270:360:1) -- (0,0) -- (0,-1);
+								\end{tikzpicture}
+							]]>
+						</latex-image>
+					</image>
+					</statement>
+				</exercise>
+				<exercise>
+					<statement>
+						<p>Shade in an area representing 1/6 of the circle. The denominations have been drawn for you.</p>
+					<image width="60%">
+						<latex-image>
+							<![CDATA[
+								\begin{tikzpicture}
+								\draw[thick] (0,0) circle (1);
+								\draw[thick] (0,0) -- (0,-1) arc (270:330:1) -- (0,0);
+								\draw[thick] (0,-1) arc (270:210:1) -- (0,0);
+								\draw[thick] (0,0) -- (0,1) arc (90:30:1) -- (0,0);
+								\draw[thick] (0,1) arc (90:150:1) -- (0,0);
+								\end{tikzpicture}
+							]]>
+						</latex-image>
+					</image>
+					</statement>
+				</exercise>
+				<exercise workspace="0.25in">
+					<statement>
+						<p>Write a fraction that represents the shaded area.</p>
+					<image width="60%">
+						<latex-image>
+							<![CDATA[
+								\begin{tikzpicture}
+								\draw[thick, blue] (0,0) -- (7,0) -- (7,3) -- (0,3) -- (0,0);
+								\draw[thick, color=blue, fill=blue!30] (0,0) -- (1,0) -- (1,3) -- (0,3) -- (0,0);
+								\draw[thick, color=blue, fill=blue!30] (2,0) -- (3,0) -- (3,3) -- (2,3) -- (2,0);
+								\draw[thick, color=blue, fill=blue!30] (4,0) -- (5,0) -- (5,3) -- (4,3) -- (4,0);
+								\draw[thick, color=blue, fill=blue!30] (6,0) -- (7,0) -- (7,3) -- (6,3) -- (6,0);
+								\end{tikzpicture}
+							]]>
+						</latex-image>
+					</image>
+					</statement>
+				</exercise>
+				<exercise>
+					<statement>
+						<p>Shade in an area representing 1/3 of the rectangle. This time, you will need to draw your own denominations.</p>
+					<image width="60%">
+						<latex-image>
+							<![CDATA[
+								\begin{tikzpicture}
+								\draw[thick] (0,0) -- (7,0) -- (7,3) -- (0,3) -- (0,0);
+								\end{tikzpicture}
+							]]>
+						</latex-image>
+					</image>
+					</statement>
+				</exercise>
+			</exercisegroup>
+			<exercise workspace="0.25in">
+				<statement>
+					<p>Our full class roster is 11 students. Write down the number of students who attended class today as a fraction of the whole class.</p>
+				</statement>
+			</exercise>
+			<exercisegroup cols="3">
+				<introduction>
+					<p>Identify the largest fraction in each pair.</p>
+				</introduction>
+				<exercise workspace="0.25in">
+					<statement>
+						<p><m>\dfrac{2}{3}, \dfrac{1}{3}</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.25in">
+					<statement>
+						<p><m>\dfrac{6}{7}, \dfrac{3}{7}</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.25in">
+					<statement>
+						<p><m>\dfrac{5}{6}, \dfrac{5}{8}</m></p>
+					</statement>
+				</exercise>
+			</exercisegroup>
+		</page>
+		<page>
+			<exercisegroup cols="2">
+				<title>Fractions on the Number Line</title>
+				<introduction>
+					<p>Use the number line to answer each question.</p>
+				</introduction>
+				<exercise workspace="0.25in">
+					<statement>
+						<p>Estimate the fraction from the point on the number line.</p>
+						<image width="90%">
+							<latex-image>
+								<![CDATA[
+									\begin{tikzpicture}
+									\draw[<->, thick] (-1, 0) -- (5,0);
+									\foreach \x in {1, 2, 3} {
+									\draw (\x,0.1)--(\x,-0.1);
+									}
+									\draw (0,0.2)--(0,-0.2);
+									\draw (0,-0.4) node {0};
+									\draw (4,0.2)--(4,-0.2);
+									\draw (4,-0.4) node {1};
+									\filldraw (3,0) circle (0.1);
+									\end{tikzpicture}
+								]]>
+							</latex-image>
+						</image>
+					</statement>
+				</exercise>
+				<exercise workspace="0.25in">
+					<statement>
+						<p>Estimate the fraction from the point on the number line.</p>
+						<image width="90%">
+							<latex-image>
+								<![CDATA[
+									\begin{tikzpicture}
+									\draw[<->, thick] (-1, 0) -- (5,0);
+									\foreach \x in {0.5714, 1.1428, 1.7142, 2.2857, 2.8571, 3.4286} {
+									\draw (\x,0.1)--(\x,-0.1);
+									}
+									\draw (0,0.2)--(0,-0.2);
+									\draw (0,-0.4) node {0};
+									\draw (4,0.2)--(4,-0.2);
+									\draw (4,-0.4) node {1};
+									\filldraw (1.1428,0) circle (0.1);
+									\end{tikzpicture}
+								]]>
+							</latex-image>
+						</image>
+					</statement>
+				</exercise>
+				<exercise>
+					<statement>
+						<p>Plot <m>\dfrac{1}{5}</m> on the number line.</p>
+						<image width="90%">
+							<latex-image>
+								<![CDATA[
+									\begin{tikzpicture}
+									\draw[<->, thick] (-1, 0) -- (5,0);
+									\draw (0,0.2)--(0,-0.2);
+									\draw (0,-0.4) node {0};
+									\draw (4,0.2)--(4,-0.2);
+									\draw (4,-0.4) node {1};
+									\end{tikzpicture}
+								]]>
+							</latex-image>
+						</image>
+					</statement>
+				</exercise>
+				<exercise>
+					<statement>
+						<p>Plot <m>\dfrac{2}{3}</m> on the number line.</p>
+						<image width="90%">
+							<latex-image>
+								<![CDATA[
+									\begin{tikzpicture}
+									\draw[<->, thick] (-1, 0) -- (5,0);
+									\draw (0,0.2)--(0,-0.2);
+									\draw (0,-0.4) node {0};
+									\draw (4,0.2)--(4,-0.2);
+									\draw (4,-0.4) node {1};
+									\end{tikzpicture}
+								]]>
+							</latex-image>
+						</image>
+					</statement>
+				</exercise>
+			</exercisegroup>
+			<exercisegroup cols="3">
+				<title>Improper Fractions to Mixed Numbers</title>
+				<introduction>
+					<p>Convert each improper fraction to a mixed number.</p>
+				</introduction>
+				<exercise workspace="0.25in">
+					<statement>
+						<p><m>\dfrac{37}{8}</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.25in">
+					<statement>
+						<p><m>\dfrac{27}{10}</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.25in">
+					<statement>
+						<p><m>\dfrac{133}{13}</m></p>
+					</statement>
+				</exercise>
+			</exercisegroup>
+			<exercisegroup cols="3">
+				<title>Mixed numbers to Improper Fractions</title>
+				<introduction>
+					<p>Convert each mixed number to a proper fraction.</p>
+				</introduction>
+				<exercise workspace="0.25in">
+					<statement>
+						<p><m>1\dfrac{3}{4}</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.25in">
+					<statement>
+						<p><m>3\dfrac{3}{7}</m></p>
+					</statement>
+				</exercise>
+				<exercise workspace="0.25in">
+					<statement>
+						<p><m>11\dfrac{5}{12}</m></p>
+					</statement>
+				</exercise>
+			</exercisegroup>
+			<exercise workspace = ".5in">
+				<title>Self Reflection</title>
+				<p>On a scale of 1-5, how confident are you with the material in this worksheet?</p>
+				<p>Were any of the exercises confusing or frustrating? If so, identify them here and
+					write down your plan to master those topics.</p>
+			</exercise>
+		</page>
+	</worksheet>
+</subsection>
