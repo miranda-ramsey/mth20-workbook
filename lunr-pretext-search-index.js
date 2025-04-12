@@ -820,13 +820,283 @@ var ptx_lunr_docs = [
   "body": "Self Reflection On a scale of 1-5, how confident are you with the material in this worksheet? Were any of the exercises confusing or frustrating? If so, identify them here and write down your plan to master those topics. "
 },
 {
-  "id": "fractions",
+  "id": "group-prime-factory",
   "level": "1",
-  "url": "fractions.html",
-  "type": "Section",
-  "number": "3",
+  "url": "group-prime-factory.html",
+  "type": "Subsection",
+  "number": "",
+  "title": "Group Activity: Prime Factory",
+  "body": " Group Activity: Prime Factory   You will need:   A modified deck of cards containing:   Eight 2s  Eight 3s  Six 5s  Four 7s  Four Jokers    A Prime Factory Game Board (see instructions below to make a game board)  Colored markers or game pieces, one color per player  Numbered cards have the value printed on them, and Jokers are wild and can represent either 2, 3, 5, or 7.    How To Play    Set up the game by shuffling the deck and dealing 9 cards face up in a square next to the game board.  Your goal is to \"build\" numbers on the game board by multiplying prime numbers together using the face-up cards.  Determine who will play first.  On your turn, choose and discard face-up cards that multiply together to get an available number on the game board. Cross out the product you have made with your colored marker (or cover it with one of your game pieces) to claim it. Replace the cards you took by drawing new cards from the deck.  The cards that you remove represent the Prime Factorization of the number you build with them.  Each number is worth points based on the number of prime factors it has (see ), so try to use as many cards you can. As more numbers are built and crossed out, the game will get harder!  When the deck is empty, shuffle the discard pile to continue playing.  Once all numbers on the board have been built, score points for each of the numbers you built using . Whoever has the highest total wins!      Points Table       # of Factors  Points  Products    2  2  4, 6, 9, 10, 14, 15, 21, 25, 35, 49    3  3  8, 12, 18, 20, 27,28, 30, 42, 45, 50, 63, 70, 75, 98    4  5  16, 24, 36, 40, 54, 56, 60, 84, 90, 100    5  10  32, 48, 72, 80    6  20  64, 96      Creating a Game Board  To create a game board to play on, simply write out all of the products from on a piece of paper, grouped by how many points they are worth. If playing with game pieces, make sure to leave enough space between numbers on your game board.   "
+},
+{
+  "id": "group-prime-factory-3-2",
+  "level": "2",
+  "url": "group-prime-factory.html#group-prime-factory-3-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Prime Factorization "
+},
+{
+  "id": "prime-factory-points-table",
+  "level": "2",
+  "url": "group-prime-factory.html#prime-factory-points-table",
+  "type": "Table",
+  "number": "2.1",
+  "title": "Points Table",
+  "body": " Points Table       # of Factors  Points  Products    2  2  4, 6, 9, 10, 14, 15, 21, 25, 35, 49    3  3  8, 12, 18, 20, 27,28, 30, 42, 45, 50, 63, 70, 75, 98    4  5  16, 24, 36, 40, 54, 56, 60, 84, 90, 100    5  10  32, 48, 72, 80    6  20  64, 96    "
+},
+{
+  "id": "problem-set-2",
+  "level": "1",
+  "url": "problem-set-2.html",
+  "type": "Subsection",
+  "number": "",
+  "title": "Homework: Problem Set 2",
+  "body": " Homework: Problem Set 2   In addition to the homework problems on ALEKS, complete the following problems by hand:    Book Problems    pp 112-113: 21-30, 31-38, 53-56, 57-60, 69-72, 80, 84, 88, 92.     "
+},
+{
+  "id": "ws-fractions",
+  "level": "1",
+  "url": "ws-fractions.html",
+  "type": "Subsection",
+  "number": "",
   "title": "Fractions",
-  "body": " Fractions   "
+  "body": " Fractions   This worksheet references topics from Section 2.1.    Worksheet: Fractions    Identify the numerator and denominator in \"parts of a whole\" problems.  Compare the sizes of different fractions with the same numerator or the same denominator.  Plot fractions on a number line.  Change mixed numbers to improper fractions, and improper fractions to mixed numbers.     Vocabulary  Fill in the blanks.  The top part of a fraction is called the , and the bottom is called the . Increasing the makes a fraction bigger. Increasing the makes a fraction smaller.   Identification Practice   Identify the numerator and the denominator for each fraction.             Parts of a Whole   Answer the following questions using fractions.    Write a fraction that represents a minute as part of an hour.    What fraction of an hour is 45 minutes?    Write a fraction that represents the shaded area.       Shade in an area representing 1\/6 of the circle. The denominations have been drawn for you.       Write a fraction that represents the shaded area.       Shade in an area representing 1\/3 of the rectangle. This time, you will need to draw your own denominations.        Our full class roster is 11 students. Write down the number of students who attended class today as a fraction of the whole class.     Identify the largest fraction in each pair.                Fractions on the Number Line   Use the number line to answer each question.    Estimate the fraction from the point on the number line.       Estimate the fraction from the point on the number line.       Plot on the number line.       Plot on the number line.        Improper Fractions to Mixed Numbers   Convert each improper fraction to a mixed number.              Mixed numbers to Improper Fractions   Convert each mixed number to a proper fraction.             Self Reflection On a scale of 1-5, how confident are you with the material in this worksheet? Were any of the exercises confusing or frustrating? If so, identify them here and write down your plan to master those topics.    "
+},
+{
+  "id": "worksheet-fractions-2",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Identify the numerator and denominator in \"parts of a whole\" problems.  Compare the sizes of different fractions with the same numerator or the same denominator.  Plot fractions on a number line.  Change mixed numbers to improper fractions, and improper fractions to mixed numbers.   "
+},
+{
+  "id": "worksheet-fractions-3-1",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-3-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Vocabulary.",
+  "body": "Vocabulary  Fill in the blanks.  The top part of a fraction is called the , and the bottom is called the . Increasing the makes a fraction bigger. Increasing the makes a fraction smaller. "
+},
+{
+  "id": "worksheet-fractions-3-2-3",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-3-2-3",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "  "
+},
+{
+  "id": "worksheet-fractions-3-2-4",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-3-2-4",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "  "
+},
+{
+  "id": "worksheet-fractions-4-1-3",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-4-1-3",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": " Write a fraction that represents a minute as part of an hour.  "
+},
+{
+  "id": "worksheet-fractions-4-1-4",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-4-1-4",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": " What fraction of an hour is 45 minutes?  "
+},
+{
+  "id": "worksheet-fractions-4-1-5",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-4-1-5",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": " Write a fraction that represents the shaded area.     "
+},
+{
+  "id": "worksheet-fractions-4-1-6",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-4-1-6",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": " Shade in an area representing 1\/6 of the circle. The denominations have been drawn for you.     "
+},
+{
+  "id": "worksheet-fractions-4-1-7",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-4-1-7",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": " Write a fraction that represents the shaded area.     "
+},
+{
+  "id": "worksheet-fractions-4-1-8",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-4-1-8",
+  "type": "Worksheet Exercise",
+  "number": "9",
+  "title": "",
+  "body": " Shade in an area representing 1\/3 of the rectangle. This time, you will need to draw your own denominations.     "
+},
+{
+  "id": "worksheet-fractions-4-2",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-4-2",
+  "type": "Worksheet Exercise",
+  "number": "10",
+  "title": "",
+  "body": " Our full class roster is 11 students. Write down the number of students who attended class today as a fraction of the whole class.  "
+},
+{
+  "id": "worksheet-fractions-4-3-2",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-4-3-2",
+  "type": "Worksheet Exercise",
+  "number": "11",
+  "title": "",
+  "body": "  "
+},
+{
+  "id": "worksheet-fractions-4-3-3",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-4-3-3",
+  "type": "Worksheet Exercise",
+  "number": "12",
+  "title": "",
+  "body": "  "
+},
+{
+  "id": "worksheet-fractions-4-3-4",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-4-3-4",
+  "type": "Worksheet Exercise",
+  "number": "13",
+  "title": "",
+  "body": "  "
+},
+{
+  "id": "worksheet-fractions-5-1-3",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-5-1-3",
+  "type": "Worksheet Exercise",
+  "number": "14",
+  "title": "",
+  "body": " Estimate the fraction from the point on the number line.     "
+},
+{
+  "id": "worksheet-fractions-5-1-4",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-5-1-4",
+  "type": "Worksheet Exercise",
+  "number": "15",
+  "title": "",
+  "body": " Estimate the fraction from the point on the number line.     "
+},
+{
+  "id": "worksheet-fractions-5-1-5",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-5-1-5",
+  "type": "Worksheet Exercise",
+  "number": "16",
+  "title": "",
+  "body": " Plot on the number line.     "
+},
+{
+  "id": "worksheet-fractions-5-1-6",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-5-1-6",
+  "type": "Worksheet Exercise",
+  "number": "17",
+  "title": "",
+  "body": " Plot on the number line.     "
+},
+{
+  "id": "worksheet-fractions-5-2-3",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-5-2-3",
+  "type": "Worksheet Exercise",
+  "number": "18",
+  "title": "",
+  "body": "  "
+},
+{
+  "id": "worksheet-fractions-5-2-4",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-5-2-4",
+  "type": "Worksheet Exercise",
+  "number": "19",
+  "title": "",
+  "body": "  "
+},
+{
+  "id": "worksheet-fractions-5-2-5",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-5-2-5",
+  "type": "Worksheet Exercise",
+  "number": "20",
+  "title": "",
+  "body": "  "
+},
+{
+  "id": "worksheet-fractions-5-3-3",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-5-3-3",
+  "type": "Worksheet Exercise",
+  "number": "21",
+  "title": "",
+  "body": "  "
+},
+{
+  "id": "worksheet-fractions-5-3-4",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-5-3-4",
+  "type": "Worksheet Exercise",
+  "number": "22",
+  "title": "",
+  "body": "  "
+},
+{
+  "id": "worksheet-fractions-5-3-5",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-5-3-5",
+  "type": "Worksheet Exercise",
+  "number": "23",
+  "title": "",
+  "body": "  "
+},
+{
+  "id": "worksheet-fractions-5-4",
+  "level": "2",
+  "url": "ws-fractions.html#worksheet-fractions-5-4",
+  "type": "Worksheet Exercise",
+  "number": "24",
+  "title": "Self Reflection.",
+  "body": "Self Reflection On a scale of 1-5, how confident are you with the material in this worksheet? Were any of the exercises confusing or frustrating? If so, identify them here and write down your plan to master those topics. "
+},
+{
+  "id": "problem-set-3",
+  "level": "1",
+  "url": "problem-set-3.html",
+  "type": "Subsection",
+  "number": "",
+  "title": "Homework: Problem Set 3",
+  "body": " Homework: Problem Set 3   In addition to the homework problems on ALEKS, complete the following problems by hand:    Book Problems    pp 103-106: 16-18, 23, 24, 27, 28, 45, 46, 50-52, 63, 64, 74-76, 86, 88.  pp 129-130: 7, 10, 14, 16, 20, 24, 56, 60, 64, 71, 74, 78  pp 570-572: 17-24, 37 (a and b), 39,40     "
 },
 {
   "id": "midterm-review",
