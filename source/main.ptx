@@ -34,9 +34,9 @@
 	<section xml:id="fractions">
 		<title>Fractions</title>
 		<xi:include href="./fractions/ws-fractions.ptx" />
+		<xi:include href="./fractions/ws-fraction-multiplication.ptx" />
 		<xi:include href="./fractions/problem-set-3.ptx" />
 		<!--
-		<xi:include href="./fractions/ws-fraction-multiplication.ptx" />
 		<xi:include href="./fractions/ws-fraction-simplification.ptx" />
 		<xi:include href="./fractions/ws-fraction-addition.ptx" />
 		-->
