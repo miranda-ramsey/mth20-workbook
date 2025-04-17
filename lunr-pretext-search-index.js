@@ -1090,6 +1090,204 @@ var ptx_lunr_docs = [
   "body": "Self Reflection On a scale of 1-5, how confident are you with the material in this worksheet? Were any of the exercises confusing or frustrating? If so, identify them here and write down your plan to master those topics. "
 },
 {
+  "id": "ws-fraction-multiplication",
+  "level": "1",
+  "url": "ws-fraction-multiplication.html",
+  "type": "Subsection",
+  "number": "",
+  "title": "Fraction Multiplication",
+  "body": " Fraction Multiplication   This worksheet references topics from Sections 2.4 and 2.5.    Worksheet: Fraction Multiplication    Multiply fractions by whole numbers.  Multiply fractions by other fractions.  Divide fractions using reciprocals.  Begin simplifying fractions.      Multiplication with Whole Numbers and Fractions   Multiply each pair of numbers. Can you write the product as a whole number?                    Visualization   The picture shows a rectangle with area divided into thirds.       What is the area of one third of the rectangle? Write this as a multiplication problem and evaluate.    What is the area of the shaded region of the rectangle? Write this as a multiplication problem and evaluate.     How would you determine of the shaded region? Write this as a multiplication problem and evaluate.      Multiplication with Fractions and Fractions   Multiply each pair of fractions. Can you write the product as a whole number?                                   Write down the formula to calculate the area of a triangle. Describe what each variable in the formula stands for.    Triangle Areas   Use the formula for a triangle to calculate the areas of each triangle.                           Word Problems   Tracy has half of a leftover pizza in the fridge. If he splits this up into 3 meals, how much of a pizza will each meal be? Write this as a multiplication problem and evaluate.    Max is a woodworker and needs four \\frac{7\/8}-yd boards for a project. How many yards of lumber does he need? Write this as a multiplication problem and evaluate, giving your answer as a mixed number.    Self Reflection On a scale of 1-5, how confident are you with the material in this worksheet? Were any of the exercises confusing or frustrating? If so, identify them here and write down your plan to master those topics.    "
+},
+{
+  "id": "worksheet-fraction-multiplication-2",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Multiply fractions by whole numbers.  Multiply fractions by other fractions.  Divide fractions using reciprocals.  Begin simplifying fractions.   "
+},
+{
+  "id": "worksheet-fraction-multiplication-3-1-3",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-3-1-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-multiplication-3-1-4",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-3-1-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-multiplication-3-1-5",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-3-1-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-multiplication-3-2-3",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-3-2-3",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": " What is the area of one third of the rectangle? Write this as a multiplication problem and evaluate.  "
+},
+{
+  "id": "worksheet-fraction-multiplication-3-2-4",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-3-2-4",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": " What is the area of the shaded region of the rectangle? Write this as a multiplication problem and evaluate.  "
+},
+{
+  "id": "worksheet-fraction-multiplication-3-3",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-3-3",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": " How would you determine of the shaded region? Write this as a multiplication problem and evaluate.  "
+},
+{
+  "id": "worksheet-fraction-multiplication-4-1-3",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-4-1-3",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-multiplication-4-1-4",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-4-1-4",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-multiplication-4-1-5",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-4-1-5",
+  "type": "Worksheet Exercise",
+  "number": "9",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-multiplication-4-1-6",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-4-1-6",
+  "type": "Worksheet Exercise",
+  "number": "10",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-multiplication-4-1-7",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-4-1-7",
+  "type": "Worksheet Exercise",
+  "number": "11",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-multiplication-4-1-8",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-4-1-8",
+  "type": "Worksheet Exercise",
+  "number": "12",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-multiplication-4-2",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-4-2",
+  "type": "Worksheet Exercise",
+  "number": "13",
+  "title": "",
+  "body": " Write down the formula to calculate the area of a triangle. Describe what each variable in the formula stands for.  "
+},
+{
+  "id": "worksheet-fraction-multiplication-4-3-3",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-4-3-3",
+  "type": "Worksheet Exercise",
+  "number": "14",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-multiplication-4-3-4",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-4-3-4",
+  "type": "Worksheet Exercise",
+  "number": "15",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-multiplication-4-3-5",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-4-3-5",
+  "type": "Worksheet Exercise",
+  "number": "16",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-multiplication-4-3-6",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-4-3-6",
+  "type": "Worksheet Exercise",
+  "number": "17",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-multiplication-5-1-2",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-5-1-2",
+  "type": "Worksheet Exercise",
+  "number": "18",
+  "title": "",
+  "body": " Tracy has half of a leftover pizza in the fridge. If he splits this up into 3 meals, how much of a pizza will each meal be? Write this as a multiplication problem and evaluate.  "
+},
+{
+  "id": "worksheet-fraction-multiplication-5-1-3",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-5-1-3",
+  "type": "Worksheet Exercise",
+  "number": "19",
+  "title": "",
+  "body": " Max is a woodworker and needs four \\frac{7\/8}-yd boards for a project. How many yards of lumber does he need? Write this as a multiplication problem and evaluate, giving your answer as a mixed number.  "
+},
+{
+  "id": "worksheet-fraction-multiplication-5-2",
+  "level": "2",
+  "url": "ws-fraction-multiplication.html#worksheet-fraction-multiplication-5-2",
+  "type": "Worksheet Exercise",
+  "number": "20",
+  "title": "Self Reflection.",
+  "body": "Self Reflection On a scale of 1-5, how confident are you with the material in this worksheet? Were any of the exercises confusing or frustrating? If so, identify them here and write down your plan to master those topics. "
+},
+{
   "id": "problem-set-3",
   "level": "1",
   "url": "problem-set-3.html",
