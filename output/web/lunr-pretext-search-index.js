@@ -10,6 +10,33 @@ var ptx_lunr_docs = [
   "body": "  Miranda Ramsey Math Department Portland Community College      My Website   copyright         "
 },
 {
+  "id": "problem-set-1",
+  "level": "1",
+  "url": "problem-set-1.html",
+  "type": "Subsection",
+  "number": "",
+  "title": "Homework: Problem Set 1",
+  "body": " Homework: Problem Set 1   In addition to the homework problems on ALEKS, complete the following problems by hand:    Book Problems    pp 89-91: 22-28, 37-42, 53-61, 71, 72, 77, 86, 88, 91, 93, 98  pp 494-495: 1, 2, 15-17  pp 594-595: 1-6, 37-40     "
+},
+{
+  "id": "problem-set-2",
+  "level": "1",
+  "url": "problem-set-2.html",
+  "type": "Subsection",
+  "number": "",
+  "title": "Homework: Problem Set 2",
+  "body": " Homework: Problem Set 2   In addition to the homework problems on ALEKS, complete the following problems by hand:    Book Problems    pp 112-113: 21-30, 31-38, 53-56, 57-60, 69-72, 80, 84, 88, 92.     "
+},
+{
+  "id": "problem-set-3",
+  "level": "1",
+  "url": "problem-set-3.html",
+  "type": "Subsection",
+  "number": "",
+  "title": "Homework: Problem Set 3",
+  "body": " Homework: Problem Set 3   In addition to the homework problems on ALEKS, complete the following problems by hand:    Book Problems    pp 103-106: 16-18, 23, 24, 27, 28, 45, 46, 50-52, 63, 64, 74-76, 86, 88.  pp 129-130: 7, 10, 14, 16, 20, 24, 56, 60, 64, 71, 74, 78  pp 570-572: 17-24, 37 (a and b), 39,40     "
+},
+{
   "id": "ws-introduction",
   "level": "1",
   "url": "ws-introduction.html",
@@ -577,15 +604,6 @@ var ptx_lunr_docs = [
   "body": " Group Activity: Zero Sum   You will need a deck of playing cards with the jokers and any marketing cards removed and set aside.  Aces are worth 1 point, and face cards (Jacks, Queens, and Kings) are worth 10 points.  Black suits (Spades, Clubs) are worth positive points. Red suits (Hearts, Diamonds) are worth negative points.      How To Play    Choose one player to be the dealer. The dealer shuffles the deck and deals 3 cards to each player.  Play starts with the player to the dealer's left. The table score starts at 0.  On your turn, choose a card from your hand and play it onto the discard pile. Add its point value to the table score, and say the new table score out loud.  If the table score is 0, you win the pile! Collect the discard pile and set it aside, then play another card from your hand to start a new discard pile.  Draw cards to bring your hand back up to 3 cards, or until the deck is empty.  Play continues to the left (clockwise) until all cards have been played. If a player has no cards in hand on their turn, their turn is skipped.  Count up how many cards you've won. Whoever won the most cards wins the round!     "
 },
 {
-  "id": "problem-set-1",
-  "level": "1",
-  "url": "problem-set-1.html",
-  "type": "Subsection",
-  "number": "",
-  "title": "Homework: Problem Set 1",
-  "body": " Homework: Problem Set 1   In addition to the homework problems on ALEKS, complete the following problems by hand:    Book Problems    pp 89-91: 22-28, 37-42, 53-61, 71, 72, 77, 86, 88, 91, 93, 98  pp 494-495: 1, 2, 15-17  pp 594-595: 1-6, 37-40     "
-},
-{
   "id": "ws-factoring",
   "level": "1",
   "url": "ws-factoring.html",
@@ -842,18 +860,9 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "group-prime-factory.html#prime-factory-points-table",
   "type": "Table",
-  "number": "2.1",
+  "number": "3.1",
   "title": "Points Table",
   "body": " Points Table       # of Factors  Points  Products    2  2  4, 6, 9, 10, 14, 15, 21, 25, 35, 49    3  3  8, 12, 18, 20, 27,28, 30, 42, 45, 50, 63, 70, 75, 98    4  5  16, 24, 36, 40, 54, 56, 60, 84, 90, 100    5  10  32, 48, 72, 80    6  20  64, 96    "
-},
-{
-  "id": "problem-set-2",
-  "level": "1",
-  "url": "problem-set-2.html",
-  "type": "Subsection",
-  "number": "",
-  "title": "Homework: Problem Set 2",
-  "body": " Homework: Problem Set 2   In addition to the homework problems on ALEKS, complete the following problems by hand:    Book Problems    pp 112-113: 21-30, 31-38, 53-56, 57-60, 69-72, 80, 84, 88, 92.     "
 },
 {
   "id": "ws-fractions",
@@ -1288,20 +1297,290 @@ var ptx_lunr_docs = [
   "body": "Self Reflection On a scale of 1-5, how confident are you with the material in this worksheet? Were any of the exercises confusing or frustrating? If so, identify them here and write down your plan to master those topics. "
 },
 {
-  "id": "problem-set-3",
+  "id": "ws-fraction-simplification",
   "level": "1",
-  "url": "problem-set-3.html",
+  "url": "ws-fraction-simplification.html",
   "type": "Subsection",
   "number": "",
-  "title": "Homework: Problem Set 3",
-  "body": " Homework: Problem Set 3   In addition to the homework problems on ALEKS, complete the following problems by hand:    Book Problems    pp 103-106: 16-18, 23, 24, 27, 28, 45, 46, 50-52, 63, 64, 74-76, 86, 88.  pp 129-130: 7, 10, 14, 16, 20, 24, 56, 60, 64, 71, 74, 78  pp 570-572: 17-24, 37 (a and b), 39,40     "
+  "title": "Fraction Simplification",
+  "body": " Fraction Simplification   This worksheet references topics from Section 2.3.    Worksheet: Fraction Simplification    Simplify a fraction to lowest terms.  Compare two fractions by finding the Lowest Common Denominator.      Vocabulary   What does it mean for two fractions to be equivalent?    Describe the \"Multiplicative Property of 1\" and explain why it is useful for fractions.    A fraction is said to be in terms if the numerator and denominator share no common factors other than 1.    Describe what it means to \"find the Lowest Common Denominator.\"     Fill In The Blank   Fill in the missing number to make each pair of fractions equivalent.                         Equivalent Fractions   Determine if each pair of fractions are equivalent or not. Fill in the blank with or .                           Simplification   Simplify each fraction to lowest terms:  Find the prime factorization of both the numerator and denominator  Cancel any common factors  Multiply the remaining factors in the numerator, then multiply the remaining factors in the denominator, to get the simplified fraction.                                               Multiplication with Simplification   Multiply the fractions and simplify to lowest terms.                    Simplification with Powers of 10   Simplify to lowest terms by first reducing the powers of 10.                      Word Problems   Raymond read 720 pages of a 792-page book. His roommate, Travis, read 540 pages from a 660-page book.  What fractional part of his own book did each roommate read? Which of the roommates read a greater fraction of his book?   Lisa and Lynette are taking online courses. Lisa has completed 14 out of 16 assinments in her course, while Lynette has completed 18 out of 24 assignments.  What fractional part of her total number of assignments did each woman complete? Which of the women has completed more of her course?   Self Reflection On a scale of 1-5, how confident are you with the material in this worksheet? Were any of the exercises confusing or frustrating? If so, identify them here and write down your plan to master those topics.    "
+},
+{
+  "id": "worksheet-fraction-simplification-2",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Simplify a fraction to lowest terms.  Compare two fractions by finding the Lowest Common Denominator.   "
+},
+{
+  "id": "worksheet-fraction-simplification-3-1-2",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-3-1-2",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": " What does it mean for two fractions to be equivalent?  "
+},
+{
+  "id": "worksheet-fraction-simplification-3-1-3",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-3-1-3",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": " Describe the \"Multiplicative Property of 1\" and explain why it is useful for fractions.  "
+},
+{
+  "id": "worksheet-fraction-simplification-3-1-4",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-3-1-4",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": " A fraction is said to be in terms if the numerator and denominator share no common factors other than 1.  "
+},
+{
+  "id": "worksheet-fraction-simplification-3-1-5",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-3-1-5",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": " Describe what it means to \"find the Lowest Common Denominator.\"  "
+},
+{
+  "id": "worksheet-fraction-simplification-3-2-3",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-3-2-3",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-3-2-4",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-3-2-4",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-3-2-5",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-3-2-5",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-3-2-6",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-3-2-6",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-3-3-3",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-3-3-3",
+  "type": "Worksheet Exercise",
+  "number": "9",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-3-3-4",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-3-3-4",
+  "type": "Worksheet Exercise",
+  "number": "10",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-3-3-5",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-3-3-5",
+  "type": "Worksheet Exercise",
+  "number": "11",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-3-3-6",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-3-3-6",
+  "type": "Worksheet Exercise",
+  "number": "12",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-4-1-3",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-4-1-3",
+  "type": "Worksheet Exercise",
+  "number": "13",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-4-1-4",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-4-1-4",
+  "type": "Worksheet Exercise",
+  "number": "14",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-4-1-5",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-4-1-5",
+  "type": "Worksheet Exercise",
+  "number": "15",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-4-1-6",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-4-1-6",
+  "type": "Worksheet Exercise",
+  "number": "16",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-4-1-7",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-4-1-7",
+  "type": "Worksheet Exercise",
+  "number": "17",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-4-1-8",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-4-1-8",
+  "type": "Worksheet Exercise",
+  "number": "18",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-4-1-9",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-4-1-9",
+  "type": "Worksheet Exercise",
+  "number": "19",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-4-1-10",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-4-1-10",
+  "type": "Worksheet Exercise",
+  "number": "20",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-4-2-3",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-4-2-3",
+  "type": "Worksheet Exercise",
+  "number": "21",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-4-2-4",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-4-2-4",
+  "type": "Worksheet Exercise",
+  "number": "22",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-4-2-5",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-4-2-5",
+  "type": "Worksheet Exercise",
+  "number": "23",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-4-3-3",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-4-3-3",
+  "type": "Worksheet Exercise",
+  "number": "24",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-4-3-4",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-4-3-4",
+  "type": "Worksheet Exercise",
+  "number": "25",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-4-3-5",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-4-3-5",
+  "type": "Worksheet Exercise",
+  "number": "26",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-simplification-5-1-2",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-5-1-2",
+  "type": "Worksheet Exercise",
+  "number": "27",
+  "title": "",
+  "body": " Raymond read 720 pages of a 792-page book. His roommate, Travis, read 540 pages from a 660-page book.  What fractional part of his own book did each roommate read? Which of the roommates read a greater fraction of his book? "
+},
+{
+  "id": "worksheet-fraction-simplification-5-1-3",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-5-1-3",
+  "type": "Worksheet Exercise",
+  "number": "28",
+  "title": "",
+  "body": " Lisa and Lynette are taking online courses. Lisa has completed 14 out of 16 assinments in her course, while Lynette has completed 18 out of 24 assignments.  What fractional part of her total number of assignments did each woman complete? Which of the women has completed more of her course? "
+},
+{
+  "id": "worksheet-fraction-simplification-5-2",
+  "level": "2",
+  "url": "ws-fraction-simplification.html#worksheet-fraction-simplification-5-2",
+  "type": "Worksheet Exercise",
+  "number": "29",
+  "title": "Self Reflection.",
+  "body": "Self Reflection On a scale of 1-5, how confident are you with the material in this worksheet? Were any of the exercises confusing or frustrating? If so, identify them here and write down your plan to master those topics. "
 },
 {
   "id": "midterm-review",
   "level": "1",
   "url": "midterm-review.html",
   "type": "Section",
-  "number": "4",
+  "number": "5",
   "title": "Midterm Review",
   "body": " Midterm Review   "
 },
@@ -1310,7 +1589,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "rational-numbers.html",
   "type": "Section",
-  "number": "5",
+  "number": "6",
   "title": "Rational Numbers",
   "body": " Rational Numbers   "
 },
@@ -1319,7 +1598,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "final-review.html",
   "type": "Section",
-  "number": "6",
+  "number": "7",
   "title": "Final Review",
   "body": " Final Review   "
 },
