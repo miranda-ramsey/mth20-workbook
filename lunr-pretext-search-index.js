@@ -1576,6 +1576,213 @@ var ptx_lunr_docs = [
   "body": "Self Reflection On a scale of 1-5, how confident are you with the material in this worksheet? Were any of the exercises confusing or frustrating? If so, identify them here and write down your plan to master those topics. "
 },
 {
+  "id": "ws-adding-fractions",
+  "level": "1",
+  "url": "ws-adding-fractions.html",
+  "type": "Subsection",
+  "number": "",
+  "title": "Adding and Subtracting Fractions",
+  "body": " Adding and Subtracting Fractions   This worksheet references topics from Chapter 3.    Worksheet: Fraction Addition    Add and subtract like fractions.  Use the Lowest Common Denominator to add and subtract unlike fractions.  Add and subtract mixed numbers.  Use fractions in the Order of Operations.      Adding and Subtracting Like Fractions   Evaluate the sum or difference of like fractions. Simplify the result as much as possible.                         Finding the Lowest Common Denominator   Find the lowest common denominator for the given fractions.                         Adding and Subtracting Like Fractions   Find the sum or difference with the given fractions. Use the LCD you found in the last section, and simplify your final result.                           Adding and Subtracting Mixed Numbers   Find the sum or difference of the given Mixed Numbers:  Add or subtract the whole number part.  Add or subtract the fraction part.  Make the fraction part a proper fraction using borrowing or carrying.                      Order of Operations   Compute the following using the order of operations.                    Word Problems   Justin has a budget of to remodel his kitchen. If he spends \\frac{3}{28} of the money on a stove and \\frac{1}{7} on a refrigerator, how much is left?        Alastair is painting the side of his house, which is illustrated below:     Separate the problem into smaller parts. Calculate the area of each separately:  The rectangular part of the wall:  The triangular part of the wall:  The window:   Write out a mathematical statement that calculates the total area that needs to be painted by adding the two wall areas and then subtracting the window area.   Self Reflection On a scale of 1-5, how confident are you with the material in this worksheet? Were any of the exercises confusing or frustrating? If so, identify them here and write down your plan to master those topics.    "
+},
+{
+  "id": "worksheet-fraction-addition-2",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-2",
+  "type": "Objectives",
+  "number": "",
+  "title": "",
+  "body": "  Add and subtract like fractions.  Use the Lowest Common Denominator to add and subtract unlike fractions.  Add and subtract mixed numbers.  Use fractions in the Order of Operations.   "
+},
+{
+  "id": "worksheet-fraction-addition-3-1-3",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-3-1-3",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-addition-3-1-4",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-3-1-4",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-addition-3-1-5",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-3-1-5",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-addition-3-1-6",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-3-1-6",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-addition-3-2-3",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-3-2-3",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-addition-3-2-4",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-3-2-4",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-addition-3-2-5",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-3-2-5",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-addition-3-2-6",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-3-2-6",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-addition-3-3-3",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-3-3-3",
+  "type": "Worksheet Exercise",
+  "number": "9",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-addition-3-3-4",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-3-3-4",
+  "type": "Worksheet Exercise",
+  "number": "10",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-addition-3-3-5",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-3-3-5",
+  "type": "Worksheet Exercise",
+  "number": "11",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-addition-3-3-6",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-3-3-6",
+  "type": "Worksheet Exercise",
+  "number": "12",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-addition-4-1-3",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-4-1-3",
+  "type": "Worksheet Exercise",
+  "number": "13",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-addition-4-1-4",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-4-1-4",
+  "type": "Worksheet Exercise",
+  "number": "14",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-addition-4-1-5",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-4-1-5",
+  "type": "Worksheet Exercise",
+  "number": "15",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-addition-4-2-3",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-4-2-3",
+  "type": "Worksheet Exercise",
+  "number": "16",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-addition-4-2-4",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-4-2-4",
+  "type": "Worksheet Exercise",
+  "number": "17",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-addition-4-2-5",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-4-2-5",
+  "type": "Worksheet Exercise",
+  "number": "18",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "worksheet-fraction-addition-4-3-2",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-4-3-2",
+  "type": "Worksheet Exercise",
+  "number": "19",
+  "title": "",
+  "body": " Justin has a budget of to remodel his kitchen. If he spends \\frac{3}{28} of the money on a stove and \\frac{1}{7} on a refrigerator, how much is left?  "
+},
+{
+  "id": "worksheet-fraction-addition-5-1-1",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-5-1-1",
+  "type": "Worksheet Exercise",
+  "number": "20",
+  "title": "",
+  "body": " Alastair is painting the side of his house, which is illustrated below:     Separate the problem into smaller parts. Calculate the area of each separately:  The rectangular part of the wall:  The triangular part of the wall:  The window:   Write out a mathematical statement that calculates the total area that needs to be painted by adding the two wall areas and then subtracting the window area. "
+},
+{
+  "id": "worksheet-fraction-addition-5-2",
+  "level": "2",
+  "url": "ws-adding-fractions.html#worksheet-fraction-addition-5-2",
+  "type": "Worksheet Exercise",
+  "number": "21",
+  "title": "Self Reflection.",
+  "body": "Self Reflection On a scale of 1-5, how confident are you with the material in this worksheet? Were any of the exercises confusing or frustrating? If so, identify them here and write down your plan to master those topics. "
+},
+{
   "id": "midterm-review",
   "level": "1",
   "url": "midterm-review.html",
