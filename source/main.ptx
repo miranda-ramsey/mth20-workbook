@@ -41,9 +41,7 @@
 		<xi:include href="./fractions/ws-fractions.ptx" />
 		<xi:include href="./fractions/ws-fraction-multiplication.ptx" />
 		<xi:include href="./fractions/ws-fraction-simplification.ptx" />
-		<!--
-		<xi:include href="./fractions/ws-fraction-addition.ptx" />
-		-->
+		<xi:include href="./fractions/ws-adding-fractions.ptx" />
 	</section>
 
 	<section xml:id="midterm-review">
