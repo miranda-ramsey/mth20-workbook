@@ -193,7 +193,7 @@
 				<title>Word Problems</title>
 				<exercise workspace=".5in">
 					<introduction>
-						<p>Justin has a budget of <m>$14{,}000</m> to remodel his kitchen. If he spends \frac{3}{28} of the money on a stove and \frac{1}{7} on a refrigerator, how much is left?</p>
+						<p>Justin has a budget of <m>$14{,}000</m> to remodel his kitchen. If he spends <m>\frac{3}{28}</m> of the money on a stove and <m>\frac{1}{7}</m> on a refrigerator, how much is left?</p>
 					</introduction>
 				</exercise>
 			</exercisegroup>
