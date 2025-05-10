@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<subsection xml:id="group-planting-trees" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Group Activity: Planting Trees</title>
+	<introduction>
+		<p>
+                The City of Portland has a <url xml:id="tree-instructions" href="https://www.portland.gov/trees/tree-planting-steps">guide for planting trees</url> that includes steps for digging, placing, mulching, and staking the tree.
+                When mulching a tree, follow the "3-3-3" rule: add mulch to a depth of 3 inches, starting 3 inches away from the tree trunk, out to 3 feet away from the tree trunk.
+		</p>
+	</introduction>
+</subsection>

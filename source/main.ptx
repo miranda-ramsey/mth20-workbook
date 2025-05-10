@@ -54,10 +54,10 @@
 
 	<section xml:id="rational-numbers">
 		<title>Rational Numbers</title>
+		<xi:include href="./rational-numbers/ws-decimal-multiplication.ptx" />
 		<!--
 		<xi:include href="./rational-numbers/ws-decimals.ptx" />
 		<xi:include href="./rational-numbers/ws-decimal-addition.ptx" />
-		<xi:include href="./rational-numbers/ws-decimal-multiplication.ptx" />
 		<xi:include href="./rational-numbers/ws-decimal-division.ptx" />
 		<xi:include href="./rational-numbers/ws-ratios-proportions.ptx" />
 		<xi:include href="./rational-numbers/ws-rates-and-unit-costs.ptx" />
