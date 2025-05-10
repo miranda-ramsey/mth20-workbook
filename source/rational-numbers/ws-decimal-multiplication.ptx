@@ -27,24 +27,24 @@
 				<exercise workspace="0.25in">
 					<statement>
                             <md>
-                                <mrow> 53 \amp</mrow>
-                                <mrow> \times 0.5 \amp </mrow>
+                                <mrow> \amp \amp 53 \amp</mrow>
+                                <mrow> \amp \times \amp 0.5 \amp </mrow>
                             </md>
 					</statement>
 				</exercise>
 				<exercise workspace="0.25in">
 					<statement>
                             <md>
-                                <mrow> 0.47 \amp</mrow>
-                                <mrow> \times 0.2 \amp </mrow>
+                                <mrow> \amp \amp 0.47 \amp</mrow>
+                                <mrow> \amp \times \amp 0.2 \amp </mrow>
                             </md>
 					</statement>
 				</exercise>
 				<exercise workspace="0.25in">
 					<statement>
                             <md>
-                                <mrow> 5.621 \amp</mrow>
-                                <mrow> \times 0.93 \amp </mrow>
+                                <mrow> \amp \amp 5.621 \amp</mrow>
+                                <mrow> \amp \times \amp 0.93 \amp </mrow>
                             </md>
 					</statement>
 				</exercise>
@@ -59,48 +59,48 @@
 				<exercise workspace="0.25in">
 					<statement>
                             <md>
-                                <mrow> 0.1234 \amp</mrow>
-                                <mrow> \times 10 \amp </mrow>
+                                <mrow> \amp \amp 0.1234 \amp</mrow>
+                                <mrow> \amp \times \amp 10 \amp </mrow>
                             </md>
 					</statement>
 				</exercise>
 				<exercise workspace="0.25in">
 					<statement>
                             <md>
-                                <mrow> 0.1234 \amp</mrow>
-                                <mrow> \times 100 \amp </mrow>
+                                <mrow> \amp \amp 0.1234 \amp</mrow>
+                                <mrow> \amp \times \amp 100 \amp </mrow>
                             </md>
 					</statement>
 				</exercise>
 				<exercise workspace="0.25in">
 					<statement>
                             <md>
-                                <mrow> 0.1234 \amp</mrow>
-                                <mrow> \times 1000 \amp </mrow>
+                                <mrow> \amp \amp 0.1234 \amp</mrow>
+                                <mrow> \amp \times \amp 1000 \amp </mrow>
                             </md>
 					</statement>
 				</exercise>
 				<exercise workspace="0.25in">
 					<statement>
                             <md>
-                                <mrow> 0.1234 \amp</mrow>
-                                <mrow> \times .1 \amp </mrow>
+                                <mrow> \amp \amp 0.1234 \amp</mrow>
+                                <mrow> \amp \times \amp .1 \amp </mrow>
                             </md>
 					</statement>
 				</exercise>
 				<exercise workspace="0.25in">
 					<statement>
                             <md>
-                                <mrow> 0.1234 \amp</mrow>
-                                <mrow> \times .01 \amp </mrow>
+                                <mrow> \amp \amp 0.1234 \amp</mrow>
+                                <mrow> \amp \times \amp .01 \amp </mrow>
                             </md>
 					</statement>
 				</exercise>
 				<exercise workspace="0.25in">
 					<statement>
                             <md>
-                                <mrow> 0.1234 \amp</mrow>
-                                <mrow> \times .001 \amp </mrow>
+                                <mrow> \amp \amp 0.1234 \amp</mrow>
+                                <mrow> \amp \times \amp .001 \amp </mrow>
                             </md>
 					</statement>
 				</exercise>
